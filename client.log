@@ -661,3 +661,121 @@ PARA CONTINUAR 'ENTER'
 2025-06-04 16:10:05 - INFO - [CLIENT INFO]: Datos recibidos: 
 ¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
 2025-06-04 16:10:08 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-04 16:38:26 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:38:27 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-04 16:38:27 - INFO - [CLIENT INFO]: Datos recibidos: Elige una coleccion:
+1. Empresas 
+2. Personajes 
+3. Lenguajes 
+4. Animales
+Escribe un número: 
+2025-06-04 16:38:30 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-04 16:38:40 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:38:42 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 16:38:42 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del animal a AÑADIR: 
+2025-06-04 16:38:46 - INFO - [CLIENT INFO]: Mensaje enviado: KOALA
+2025-06-04 16:38:46 - INFO - [CLIENT INFO]: Datos recibidos: Animal insertado correctamente. PARA CONTINUAR 'ENTER'
+2025-06-04 16:38:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 16:38:51 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:39:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 16:39:13 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del animal a AÑADIR: 
+2025-06-04 16:39:20 - INFO - [CLIENT INFO]: Mensaje enviado: dELFIN
+2025-06-04 16:39:20 - INFO - [CLIENT INFO]: Datos recibidos: Animal insertado correctamente. PARA CONTINUAR 'ENTER'
+2025-06-04 16:39:22 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 16:39:25 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:39:31 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 16:39:31 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del animal a AÑADIR: 
+2025-06-04 16:39:36 - INFO - [CLIENT INFO]: Mensaje enviado: SAPO
+2025-06-04 16:39:36 - INFO - [CLIENT INFO]: Datos recibidos: Animal insertado correctamente. PARA CONTINUAR 'ENTER'
+2025-06-04 16:39:37 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 16:39:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:39:48 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-04 16:39:48 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del animal a BUSCAR: 
+2025-06-04 16:39:51 - INFO - [CLIENT INFO]: Mensaje enviado: TIGRE
+2025-06-04 16:39:51 - INFO - [CLIENT INFO]: Datos recibidos: Animal encontrado: TIGRE número del animal: 2
+PARA CONTINUAR 'ENTER' 
+2025-06-04 16:39:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 16:39:56 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:40:12 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-04 16:41:00 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:02 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:04 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:06 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:08 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:10 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:12 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:14 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:16 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:18 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:20 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:23 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:25 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:27 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:29 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:31 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:33 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:35 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:37 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:39 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:41 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:43 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:45 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:47 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:49 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:51 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:53 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:55 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:57 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:41:59 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:01 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:03 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:06 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:08 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:10 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:12 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:14 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:16 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:18 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:20 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:22 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:24 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:26 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:28 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:30 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:32 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:34 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:36 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:38 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:40 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:42 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:44 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:47 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:49 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:51 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-04 16:42:52 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-04 16:42:52 - INFO - [CLIENT INFO]: Datos recibidos: Elige una coleccion:
+1. Empresas 
+2. Personajes 
+3. Lenguajes 
+4. Animales
+Escribe un número: 
+2025-06-04 16:42:55 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-04 16:43:05 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 16:43:11 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 16:43:11 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del animal a AÑADIR: 
+2025-06-04 16:43:19 - INFO - [CLIENT INFO]: Mensaje enviado: murcielago
+2025-06-04 16:43:19 - INFO - [CLIENT INFO]: Datos recibidos: Animal insertado correctamente. PARA CONTINUAR 'ENTER'
+2025-06-04 16:43:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 16:43:24 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
