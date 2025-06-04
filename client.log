@@ -513,3 +513,46 @@ Escribe un número:
 Ingrese el NOMBRE de la empresa a buscar: 
 2025-06-04 15:31:16 - INFO - [CLIENT INFO]: Mensaje enviado: Sega
 2025-06-04 15:31:16 - INFO - [CLIENT INFO]: Datos recibidos: Empresa encontrada: Sega número de la empresa: 4
+2025-06-04 15:46:11 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-04 15:46:11 - INFO - [CLIENT INFO]: Datos recibidos: Elige una coleccion:
+1. Empresas 
+2. Personajes 
+3. Lenguajes 
+Escribe un número: 
+2025-06-04 15:46:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 15:46:18 - INFO - [CLIENT INFO]: Datos recibidos: Coleccion seleccionada: empresas
+ ENTER
+2025-06-04 15:46:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 15:46:28 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 15:46:33 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-04 15:46:33 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE de la empresa a buscar: 
+2025-06-04 15:46:36 - INFO - [CLIENT INFO]: Mensaje enviado: Atari
+2025-06-04 15:46:36 - INFO - [CLIENT INFO]: Datos recibidos: Empresa encontrada: Atari número de la empresa: 11
+2025-06-04 15:46:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 15:46:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 15:47:38 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-04 15:47:38 - INFO - [CLIENT INFO]: Datos recibidos: Elige una coleccion:
+1. Empresas 
+2. Personajes 
+3. Lenguajes 
+Escribe un número: 
+2025-06-04 15:47:39 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-04 15:47:44 - INFO - [CLIENT INFO]: Datos recibidos: Coleccion seleccionada: empresas
+ ENTER
+2025-06-04 15:48:19 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 15:48:19 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 15:48:21 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-04 15:48:21 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE de la empresa a buscar: 
+2025-06-04 15:48:26 - INFO - [CLIENT INFO]: Mensaje enviado: Nintendo
+2025-06-04 15:48:26 - INFO - [CLIENT INFO]: Datos recibidos: Empresa encontrada: Nintendo número de la empresa: 12
+PARA CONTINUAR 'ENTER' 
+2025-06-04 15:48:28 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-04 15:48:31 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-04 15:48:33 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-04 15:48:33 - INFO - [CLIENT INFO]: Datos recibidos: Saliendo...
