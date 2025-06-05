@@ -779,3 +779,129 @@ Ingrese el NOMBRE del animal a AÑADIR:
 2025-06-04 16:43:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
 2025-06-04 16:43:24 - INFO - [CLIENT INFO]: Datos recibidos: 
 ¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Salir
+2025-06-05 11:20:58 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:20:58 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:21:01 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:21:08 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:21:10 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:21:10 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del personaje a AÑADIR: 
+2025-06-05 11:21:20 - INFO - [CLIENT INFO]: Mensaje enviado: Terry
+2025-06-05 11:21:43 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente. PARA CONTINUAR 'ENTER'
+2025-06-05 11:21:46 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 11:21:48 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:21:51 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:21:51 - INFO - [CLIENT INFO]: Datos recibidos: 
+Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:21:54 - INFO - [CLIENT INFO]: Mensaje enviado: Terry
+2025-06-05 11:21:54 - INFO - [CLIENT INFO]: Datos recibidos: Personaje no encontrado.
+2025-06-05 11:24:25 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:24:25 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:24:27 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:24:35 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:24:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:24:43 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a AÑADIR: 
+2025-06-05 11:24:47 - INFO - [CLIENT INFO]: Mensaje enviado: Terry
+2025-06-05 11:24:47 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el ID del JUEGO al que pertenece: 
+2025-06-05 11:24:50 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-05 11:24:50 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Terry insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 11:24:51 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 11:28:16 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:28:16 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:28:19 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:28:26 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:28:28 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:28:28 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:28:36 - INFO - [CLIENT INFO]: Mensaje enviado: Terry
+2025-06-05 11:28:36 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 11:30:36 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:30:36 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:30:37 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:30:46 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:30:53 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:30:53 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:30:56 - INFO - [CLIENT INFO]: Mensaje enviado: terry
+2025-06-05 11:30:56 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 11:32:18 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:32:18 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:32:31 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:32:36 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:32:37 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:32:37 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:32:42 - INFO - [CLIENT INFO]: Mensaje enviado: terry
+2025-06-05 11:32:42 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 11:33:11 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:33:11 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:33:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:33:21 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:33:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:33:23 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a AÑADIR: 
+2025-06-05 11:34:03 - INFO - [CLIENT INFO]: Mensaje enviado: mortefi
+2025-06-05 11:34:03 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el ID del JUEGO al que pertenece: 
+2025-06-05 11:34:16 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 11:34:16 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Mortefi insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 11:34:17 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 11:34:21 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:34:30 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:34:30 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:34:34 - INFO - [CLIENT INFO]: Mensaje enviado: mortefi
+2025-06-05 11:34:34 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 11:37:51 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:37:51 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:37:53 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:38:01 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:38:04 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:38:04 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:38:07 - INFO - [CLIENT INFO]: Mensaje enviado: Terry
+2025-06-05 11:38:07 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 11:39:15 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 11:39:15 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opción:
+1. Personajes 2. Juegos 3. Empresa 
+4. Salir
+Escribe un número: 
+2025-06-05 11:39:16 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 11:39:25 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:39:27 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 11:39:27 - INFO - [CLIENT INFO]: Datos recibidos: Ingrese el NOMBRE del personaje a BUSCAR: 
+2025-06-05 11:39:31 - INFO - [CLIENT INFO]: Mensaje enviado: terry
+2025-06-05 11:39:31 - INFO - [CLIENT INFO]: Datos recibidos: Personaje encontrado: [('Terry', 'Inazuma Eleven')]
+PARA CONTINUAR 'ENTER' 
+2025-06-05 11:39:37 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 11:39:37 - INFO - [CLIENT INFO]: Datos recibidos: 
+¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Personaje 4. Salir
+2025-06-05 11:39:42 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-05 11:39:42 - INFO - [CLIENT INFO]: Datos recibidos: Saliendo del servidor...
+2025-06-05 11:39:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
