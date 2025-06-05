@@ -905,3 +905,472 @@ PARA CONTINUAR 'ENTER'
 2025-06-05 11:39:42 - INFO - [CLIENT INFO]: Mensaje enviado: 4
 2025-06-05 11:39:42 - INFO - [CLIENT INFO]: Datos recibidos: Saliendo del servidor...
 2025-06-05 11:39:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 13:37:29 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 13:37:34 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 13:37:40 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-05 13:37:45 - INFO - [CLIENT INFO]: Datos recibidos: Opcion invalida
+2025-06-05 13:37:58 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 13:37:58 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+2025-06-05 13:37:58 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 13:38:03 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 13:38:06 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 13:38:11 - INFO - [CLIENT INFO]: Datos recibidos: Opcion MySQL
+2025-06-05 13:58:40 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 13:58:45 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 13:58:54 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 13:58:59 - INFO - [CLIENT INFO]: Datos recibidos: Opcion MongoDB
+2025-06-05 14:00:13 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:00:18 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:00:23 - INFO - [CLIENT INFO]: Mensaje enviado: 56
+2025-06-05 14:00:28 - INFO - [CLIENT INFO]: Datos recibidos: Opcion invalida
+2025-06-05 14:00:34 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:00:34 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 14:00:37 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 14:00:37 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+2025-06-05 14:00:39 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:41 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:43 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:45 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:52 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:54 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:56 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:58 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:00:59 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:01:04 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:01:18 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:01:23 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:01:24 - INFO - [CLIENT INFO]: Mensaje enviado: 31
+2025-06-05 14:01:29 - INFO - [CLIENT INFO]: Datos recibidos: Opcion invalida
+2025-06-05 14:01:49 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:01:54 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:01:57 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:02:02 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+2025-06-05 14:02:10 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:02:10 - INFO - [CLIENT INFO]: Datos recibidos: ¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:03:20 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:03:25 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:03:30 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:03:35 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:28:28 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:28:33 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:28:36 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:28:41 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:28:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:28:48 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Salir
+
+2025-06-05 14:28:50 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:28:55 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES ==
+Introduce el NOMBRE del personaje: 
+2025-06-05 14:29:04 - INFO - [CLIENT INFO]: Mensaje enviado: Aalto
+2025-06-05 14:29:04 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-05 14:29:09 - INFO - [CLIENT INFO]: Mensaje enviado: Aero
+2025-06-05 14:29:09 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje: 
+2025-06-05 14:29:11 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-05 14:29:11 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-05 14:29:32 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 14:29:32 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 14:29:34 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:29:34 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Salir
+
+2025-06-05 14:30:35 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:30:40 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:30:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:30:48 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:30:50 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:30:55 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Salir
+
+2025-06-05 14:30:57 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:31:02 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES ==
+Introduce el NOMBRE del personaje: 
+2025-06-05 14:31:27 - INFO - [CLIENT INFO]: Mensaje enviado: mortefi
+2025-06-05 14:31:27 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-05 14:31:37 - INFO - [CLIENT INFO]: Mensaje enviado: Fusion
+2025-06-05 14:31:37 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje: 
+2025-06-05 14:31:39 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-05 14:31:39 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-05 14:31:42 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-05 14:31:42 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 14:31:43 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:31:43 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Salir
+
+2025-06-05 14:32:33 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:32:34 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-06-05 14:32:36 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:32:38 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-05 14:32:39 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:32:44 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:32:49 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:32:54 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:32:56 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:33:01 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 14:33:04 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 14:33:09 - INFO - [CLIENT INFO]: Datos recibidos: Volviendo a las opciones...
+
+2025-06-05 14:33:15 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:33:15 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:33:16 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 14:34:36 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:34:41 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:34:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:34:48 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:34:51 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:34:56 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 14:34:58 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 14:35:03 - INFO - [CLIENT INFO]: Datos recibidos: Volviendo a las opciones...
+
+2025-06-05 14:35:08 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:35:08 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:35:40 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:35:45 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:35:48 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:35:53 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:35:55 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:36:00 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 14:36:03 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 14:36:08 - INFO - [CLIENT INFO]: Datos recibidos: Volviendo a las opciones...
+PRESIONA ENTER DESPUES DE 5s
+2025-06-05 14:36:11 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:36:13 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:36:45 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 14:36:50 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 14:36:53 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:36:58 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 14:37:05 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:37:10 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 14:37:14 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:37:19 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES ==
+Introduce el NOMBRE del personaje: 
+2025-06-05 14:38:04 - INFO - [CLIENT INFO]: Mensaje enviado: Zhongli
+2025-06-05 14:38:04 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-05 14:38:07 - INFO - [CLIENT INFO]: Mensaje enviado: Geo
+2025-06-05 14:38:07 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje: 
+2025-06-05 14:38:09 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-05 14:38:09 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-05 14:38:11 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 14:38:11 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 14:38:12 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:38:12 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 14:38:14 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 14:38:19 - INFO - [CLIENT INFO]: Datos recibidos: Volviendo a las opciones...
+ PRESIONA ENTER PARA CONFIRMAR
+2025-06-05 14:38:46 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 14:38:46 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:43:02 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:43:07 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:43:09 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:43:14 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:43:17 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:43:22 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:43:31 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:43:36 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por ID
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:43:39 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:43:44 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:44:10 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:44:15 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:44:18 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:44:23 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:44:26 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:44:31 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:44:37 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:44:42 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por ID
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:44:45 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:44:50 - INFO - [CLIENT INFO]: Datos recibidos: ID: 1,Nombre: Bennett,Elemento: Pyro,Rareza: 4,ID Juego: 1
+
+2025-06-05 15:46:21 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:46:26 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:46:28 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:46:33 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:46:34 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:46:39 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:46:46 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:46:51 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:46:55 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:47:00 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:47:01 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:47:06 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:47:08 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:47:13 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por ID
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:47:18 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:47:23 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:47:53 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:47:58 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:48:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:48:05 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:48:06 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:48:11 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:48:18 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:48:23 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por ID
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:48:26 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:48:31 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:51:32 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:51:37 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:51:39 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:51:44 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:51:47 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:51:52 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:51:54 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:51:59 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por NOMBRE
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:52:02 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:52:07 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el NOMBRE del personaje a consultar: 
+2025-06-05 15:52:10 - INFO - [CLIENT INFO]: Mensaje enviado: terry
+2025-06-05 15:52:10 - INFO - [CLIENT INFO]: Datos recibidos: Personaje no encontrado.
+PARA CONTINUAR 'ENTER' 
+2025-06-05 15:52:11 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 15:52:11 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:52:13 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 15:52:13 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-05 15:52:38 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-05 15:52:43 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-05 15:53:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:53:05 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
+2025-06-05 15:53:12 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-05 15:53:17 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:53:20 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:53:25 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por NOMBRE
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-05 15:53:29 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-05 15:53:34 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el NOMBRE del personaje a consultar: 
+2025-06-05 15:53:38 - INFO - [CLIENT INFO]: Mensaje enviado: Lycaon
+2025-06-05 15:53:38 - INFO - [CLIENT INFO]: Datos recibidos: Personaje encontrado: Lycaon, Elemento: Hielo, Rareza: 5, ID Juego: 5
+PARA CONTINUAR 'ENTER' 
+2025-06-05 15:53:43 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 15:53:43 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-05 15:53:46 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-05 15:53:51 - INFO - [CLIENT INFO]: Datos recibidos: Volviendo a las opciones...
+ PRESIONA ENTER PARA CONFIRMAR
+2025-06-05 15:53:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-05 15:53:56 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MONGODB ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa
+
