@@ -1671,3 +1671,63 @@ Ingrese el NOMBRE del animal a AÑADIR:
 2025-06-05 16:44:12 - INFO - [CLIENT INFO]: Mensaje enviado: 
 2025-06-05 16:44:15 - INFO - [CLIENT INFO]: Datos recibidos: 
 ¿Qué quieres hacer? 1. Insertar 2. Buscar 3. Borrar Animal 4. Salir
+2025-06-06 09:23:00 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:23:05 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:23:09 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:23:14 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:23:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:23:28 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:21 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:24:26 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:24:30 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:24:35 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:24:47 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:24:52 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:56 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:58 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:24:59 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 09:24:59 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:25:30 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:25:35 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:25:52 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:25:57 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:26:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:26:05 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:28:16 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:28:21 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:28:30 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:28:35 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:28:46 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:28:51 - INFO - [CLIENT INFO]: Datos recibidos: 
