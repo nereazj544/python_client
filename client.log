@@ -1731,3 +1731,595 @@ Escribe un numero:
 
 2025-06-06 09:28:46 - INFO - [CLIENT INFO]: Mensaje enviado: 1
 2025-06-06 09:28:51 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:32:06 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:32:11 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:32:15 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:32:20 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:32:26 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:32:31 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 09:32:36 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:32:41 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES (MySQL) ==
+Introduce el NOMBRE del personaje: 
+2025-06-06 09:33:10 - INFO - [CLIENT INFO]: Mensaje enviado: Seth
+2025-06-06 09:33:10 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-06 09:33:20 - INFO - [CLIENT INFO]: Mensaje enviado: Electricidad
+2025-06-06 09:33:20 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje:
+2025-06-06 09:33:22 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-06 09:33:22 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-06 09:33:38 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 09:33:38 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 09:46:21 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 09:46:26 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 09:46:29 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 09:46:34 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 09:46:37 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:46:42 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 09:46:44 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 09:46:49 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES (MySQL) ==
+Introduce el NOMBRE del personaje: 
+2025-06-06 09:55:50 - INFO - [CLIENT INFO]: Mensaje enviado: Ãnby
+2025-06-06 09:55:50 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-06 09:55:56 - INFO - [CLIENT INFO]: Mensaje enviado: Electro
+2025-06-06 09:55:56 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje:
+2025-06-06 09:55:59 - INFO - [CLIENT INFO]: Mensaje enviado: A
+2025-06-06 09:55:59 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-06 09:56:01 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 09:56:01 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 10:03:55 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 10:04:00 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 10:04:05 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 10:04:10 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 10:04:12 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:04:17 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 10:04:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:04:28 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES (MySQL) ==
+Introduce el NOMBRE del personaje: 
+2025-06-06 10:04:32 - INFO - [CLIENT INFO]: Mensaje enviado: Corin
+2025-06-06 10:04:32 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-06 10:04:35 - INFO - [CLIENT INFO]: Mensaje enviado: Fisio
+2025-06-06 10:04:35 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje:
+2025-06-06 10:04:38 - INFO - [CLIENT INFO]: Mensaje enviado: A
+2025-06-06 10:04:38 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el GENERO del personaje: 
+2025-06-06 10:04:43 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-06 10:04:43 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-06 10:04:45 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 10:04:45 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-06 10:04:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 10:04:47 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 10:05:35 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 10:05:40 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 10:05:46 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 10:05:51 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 10:05:55 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:06:00 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 10:06:03 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:06:08 - INFO - [CLIENT INFO]: Datos recibidos: == INSERTAR PERSONAJES (MySQL) ==
+Introduce el NOMBRE del personaje: 
+2025-06-06 10:06:17 - INFO - [CLIENT INFO]: Mensaje enviado: Ellen
+2025-06-06 10:06:17 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ELEMENTO del personaje: 
+2025-06-06 10:06:24 - INFO - [CLIENT INFO]: Mensaje enviado: Glacial
+2025-06-06 10:06:24 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la RAREZA del personaje:
+2025-06-06 10:06:26 - INFO - [CLIENT INFO]: Mensaje enviado: S
+2025-06-06 10:06:26 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el GENERO del personaje: 
+2025-06-06 10:06:29 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-06 10:06:29 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del juego al que pertenece: 
+2025-06-06 10:06:31 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 10:06:31 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente.
+PARA CONTINUAR 'ENTER' 
+2025-06-06 10:06:34 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 10:06:34 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 10:39:20 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 10:39:25 - INFO - [CLIENT INFO]: Datos recibidos: Elige una opcion: 1. MongoDB 2. MySQL 3. Salir
+Escribe un numero: 
+2025-06-06 10:39:30 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 10:39:35 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION MySQL ==
+¿Con que coleccion quieres trabajar?
+1. Personajes
+2. Juegos
+3. Empresa (SI SE VA AÑADIR UN JUEGO, NECESITA SU EMPRESA)
+
+2025-06-06 10:39:40 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:39:45 - INFO - [CLIENT INFO]: Datos recibidos: == SELECCION COLECCION: PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Insertar Personajes
+2. Consultar Personajes
+3. Volver a las opciones
+
+2025-06-06 10:39:50 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 10:39:55 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR PERSONAJES (MySQL) ==
+¿Que quieres hacer?
+1. Consultar todos los personajes
+2. Consultar personaje por NOMBRE
+3. Otras consultas
+4. Volver a las opciones
+
+2025-06-06 10:40:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 10:40:05 - INFO - [CLIENT INFO]: Datos recibidos: == CONSULTAR TODOS LOS PERSONAJES (MySQL) ==
+
+2025-06-06 10:40:09 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 10:40:09 - INFO - [CLIENT INFO]: Datos recibidos: ID: 1, Nombre: Bennett, Elemento: Pyro, Genero: Masculino, Rareza: 4, Juego ID: 1
+ID: 2, Nombre: Kazuha, Elemento: Anemo, Genero: Masculino, Rareza: 5, Juego ID: 1
+ID: 3, Nombre: Arlecchino, Elemento: Pyro, Genero: Femenino, Rareza: 5, Juego ID: 1
+ID: 4, Nombre: Xiao, Elemento: Anemo, Genero: Masculino, Rareza: 5, Juego ID: 1
+ID: 5, Nombre: Jing Yan, Elemento: Rayo, Genero: Masculino, Rareza: 5, Juego ID: 2
+ID: 6, Nombre: Kafka, Elemento: Rayo, Genero: Femenino, Rareza: 5, Juego ID: 2
+ID: 7, Nombre: Gepard, Elemento: Hielo, Genero: Masculino, Rareza: 5, Juego ID: 2
+ID: 8, Nombre: Topaz y Conti, Elemento: Fuego, Genero: Femenino, Rareza: 5, Juego ID: 2
+ID: 9, Nombre: Jiyan, Elemento: Aero, Genero: Masculino, Rareza: 5, Juego ID: 3
+ID: 10, Nombre: Calcharo, Elemento: Electro, Genero: Masculino, Rareza: 5, Juego ID: 3
+ID: 11, Nombre: Lingyang, Elemento: Glacio, Genero: Masculino, Rareza: 5, Juego ID: 3
+ID: 12, Nombre: Encore, Elemento: Fusion, Genero: Femenino, Rareza: 5, Juego ID: 3
+ID: 13, Nombre: Arion, Eleme
+2025-06-06 15:42:57 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:42:59 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:43:01 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:43:03 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:43:59 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:44:01 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:44:03 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 15:44:25 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 15:44:30 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 15:44:35 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 15:44:36 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 15:44:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 15:44:38 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 15:44:40 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 15:44:51 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 15:45:51 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 15:45:56 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 15:45:58 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 15:45:58 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 15:45:59 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 15:45:59 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 15:46:03 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 15:46:13 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 15:49:27 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 15:49:32 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 15:50:39 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 15:50:39 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 15:50:40 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 15:50:40 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 15:50:42 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 15:50:52 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 15:50:56 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 15:51:01 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 15:54:59 - INFO - [CLIENT INFO]: Mensaje enviado: Nekomiya
+2025-06-06 15:54:59 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 15:55:05 - INFO - [CLIENT INFO]: Mensaje enviado: Fisico
+2025-06-06 15:55:05 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 15:55:10 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-06 15:55:10 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 15:55:16 - INFO - [CLIENT INFO]: Mensaje enviado: rango S
+2025-06-06 15:55:16 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 15:55:22 - INFO - [CLIENT INFO]: Mensaje enviado: garras
+2025-06-06 15:55:22 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 15:55:35 - INFO - [CLIENT INFO]: Mensaje enviado: Liebres Astutas
+2025-06-06 15:55:35 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO LISTA:(ENTER PARA MOSTRARLOS TODOS)ID: 1 - NOMBRE: Genshin Impact (GI)
+
+2025-06-06 15:55:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 15:55:41 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO LISTA:(ENTER PARA MOSTRARLOS TODOS)ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID JUEGO LISTA:(ENTER PARA MOSTRARLOS TODOS)ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID JUEGO LISTA:(ENTER PARA MOSTRARLOS TODOS)ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID JUEGO LISTA:(ENTER PARA MOSTRARLOS TODOS)ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ID JUEGO
+2025-06-06 15:55:49 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-06 15:55:49 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Nekomiya insertado correctamente en la base de datos MySQL.
+2025-06-06 15:55:52 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 15:55:54 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:02:39 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:02:44 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:03:01 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:03:01 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:03:03 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:03:03 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:03:09 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:03:19 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:04:10 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:04:15 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:04:44 - INFO - [CLIENT INFO]: Mensaje enviado: Aventurino
+2025-06-06 16:04:44 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:04:47 - INFO - [CLIENT INFO]: Mensaje enviado: Imaginario
+2025-06-06 16:04:47 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:04:51 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-06 16:04:51 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:04:54 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:04:54 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:05:10 - INFO - [CLIENT INFO]: Mensaje enviado: dados de la ruleta
+2025-06-06 16:05:10 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:05:35 - INFO - [CLIENT INFO]: Mensaje enviado: Corporacion para la Paz Interastral
+2025-06-06 16:05:35 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles (ENTER PARA MOSTRARLOS TODOS): ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+
+2025-06-06 16:05:45 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:05:45 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-06 16:05:50 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-06 16:05:50 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Aventurino insertado correctamente en la base de datos MySQL.
+2025-06-06 16:05:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:05:55 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:12:56 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:13:01 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:13:05 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:13:05 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:13:07 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:13:07 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:13:11 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:13:21 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:13:39 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:13:44 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:14:12 - INFO - [CLIENT INFO]: Mensaje enviado: Guardacosatas
+2025-06-06 16:14:12 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:14:25 - INFO - [CLIENT INFO]: Mensaje enviado: Espectro
+2025-06-06 16:14:25 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:14:29 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-06 16:14:29 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:14:33 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:14:33 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:14:38 - INFO - [CLIENT INFO]: Mensaje enviado: Rectificador
+2025-06-06 16:14:38 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:14:46 - INFO - [CLIENT INFO]: Mensaje enviado: Costa Negra
+2025-06-06 16:14:46 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+
+2025-06-06 16:14:48 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:14:48 - INFO - [CLIENT INFO]: Datos recibidos: ENTER PARA CONTINUAR
+2025-06-06 16:14:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:15:25 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 16:15:27 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-06 16:15:29 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:15:34 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:15:52 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:15:52 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:15:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:15:53 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:15:54 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:16:05 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:16:33 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:16:38 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:16:48 - INFO - [CLIENT INFO]: Mensaje enviado: Guadacostas
+2025-06-06 16:16:48 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:16:51 - INFO - [CLIENT INFO]: Mensaje enviado: Espectro
+2025-06-06 16:16:51 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:16:54 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-06 16:16:54 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:16:56 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:16:56 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:17:01 - INFO - [CLIENT INFO]: Mensaje enviado: Rectificador
+2025-06-06 16:17:01 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:17:05 - INFO - [CLIENT INFO]: Mensaje enviado: Costa Negra
+2025-06-06 16:17:05 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+
+2025-06-06 16:17:08 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:17:08 - INFO - [CLIENT INFO]: Datos recibidos: ENTER PARA CONTINUAREscribe el ID JUEGO
+2025-06-06 16:17:18 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-06 16:17:18 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Guadacostas insertado correctamente en la base de datos MySQL.
+2025-06-06 16:17:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:17:23 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:20:12 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:20:17 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:20:19 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:20:19 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:20:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:20:20 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:20:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:20:33 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:20:37 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:20:42 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:20:50 - INFO - [CLIENT INFO]: Mensaje enviado: Cedric Freud
+2025-06-06 16:20:50 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:20:53 - INFO - [CLIENT INFO]: Mensaje enviado: Bosque
+2025-06-06 16:20:53 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:20:55 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-06 16:20:55 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-06 16:20:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:28:57 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:28:59 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:29:01 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:29:01 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:29:03 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:29:03 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:29:05 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:29:09 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:29:10 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:29:12 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-06 16:29:16 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-06 16:29:18 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:29:35 - INFO - [CLIENT INFO]: Mensaje enviado: Alix La Fontaine
+2025-06-06 16:29:35 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:29:38 - INFO - [CLIENT INFO]: Mensaje enviado: Viento
+2025-06-06 16:29:38 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:29:42 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-06 16:29:42 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:29:50 - INFO - [CLIENT INFO]: Mensaje enviado: South Cirrus
+2025-06-06 16:29:50 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-06 16:29:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:29:53 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-06 16:29:55 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:29:55 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 16:30:41 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:30:43 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:30:48 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:30:48 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:30:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:30:49 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:30:50 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:30:54 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:30:56 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:30:58 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-06 16:31:00 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-06 16:31:02 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:31:07 - INFO - [CLIENT INFO]: Mensaje enviado: Alix La Fontaine
+2025-06-06 16:31:07 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:31:09 - INFO - [CLIENT INFO]: Mensaje enviado: Viento
+2025-06-06 16:31:09 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:31:13 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-06 16:31:13 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:31:18 - INFO - [CLIENT INFO]: Mensaje enviado: South Cirrus
+2025-06-06 16:31:18 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-06 16:31:19 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:31:19 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-06 16:31:26 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:31:26 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-06 16:31:41 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-06 16:31:43 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-06 16:31:46 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-06 16:31:46 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-06 16:31:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:31:47 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-06 16:31:51 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:31:56 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-06 16:31:58 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-06 16:32:00 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-06 16:32:01 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-06 16:32:03 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-06 16:32:08 - INFO - [CLIENT INFO]: Mensaje enviado: Alix La Fontaine
+2025-06-06 16:32:08 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-06 16:32:09 - INFO - [CLIENT INFO]: Mensaje enviado: Viento
+2025-06-06 16:32:09 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-06 16:32:10 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-06 16:32:10 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-06 16:32:12 - INFO - [CLIENT INFO]: Mensaje enviado: South Cirrus
+2025-06-06 16:32:12 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-06 16:32:13 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:32:13 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-06 16:32:15 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-06 16:32:15 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Alix La Fontaine insertado correctamente en la base de datos MySQL.
+2025-06-06 16:32:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-06 16:32:17 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.

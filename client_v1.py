@@ -6,7 +6,7 @@ from Logs import log_critical, log_error, log_info, log_warning, log_debug
 # TODO: CONFIGURACIONES DE CONEXIÓN
 
 HOST = 'localhost'  # Dirección IP del servidor
-PORT = 8080
+PORT = 8083
 
 while True:
     try:
