@@ -2323,3 +2323,654 @@ ENTER PARA CONTINUAR
  2. Ver todos los personajes
  3. Otras busquedas
  4.
+2025-06-07 15:31:05 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 15:31:07 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 15:31:12 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:31:12 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 15:31:13 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:31:13 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 15:31:16 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 15:31:20 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 15:31:23 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:31:25 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+ID: 1 - NOMBRE: Bennett
+ID: 2 - NOMBRE: Kazuha
+ID: 3 - NOMBRE: Arlecchino
+ID: 4 - NOMBRE: Xiao
+ID: 5 - NOMBRE: Jing Yan
+ID: 6 - NOMBRE: Kafka
+ID: 7 - NOMBRE: Gepard
+ID: 8 - NOMBRE: Hugo
+ID: 9 - NOMBRE: Lycaon
+ID: 10 - NOMBRE: Seth
+ID: 11 - NOMBRE: Brant
+ID: 12 - NOMBRE: Zani
+ID: 13 - NOMBRE: Aalto
+ID: 14 - NOMBRE: Arion Sherwind
+ID: 15 - NOMBRE: Mark Evans
+ID: 16 - NOMBRE: Umei Sasanami
+ID: 17 - NOMBRE: Sonny Wright
+ID: 18 - NOMBRE: Nekomiya
+ID: 19 - NOMBRE: Aventurino
+ID: 20 - NOMBRE: Guadacostas
+ID: 21 - NOMBRE: Raika Shinohara
+ID: 22 - NOMBRE: Alix La Fontaine
+ 
+ENTER PARA CONTINUAR
+2025-06-07 15:31:28 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:31:28 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 15:47:41 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 15:47:43 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 15:47:46 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:47:46 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR=============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 15:47:48 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 15:47:52 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 15:47:58 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:48:00 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-07 15:51:45 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 15:51:47 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 15:56:23 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:56:23 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 15:56:24 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:56:24 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 15:56:27 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 15:56:31 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 15:56:34 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 15:56:36 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 1 - NOMBRE: Bennett - GENERO: Masculino - ELEMENTO: Pyro - RAREZA: 4 - ARMA: Espada- FACCION: Mondstadt
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 2 - NOMBRE: Kazuha - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Espada- FACCION: Inazuma
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 3 - NOMBRE: Arlecchino - GENERO: Femenino - ELEMENTO: Pyro - RAREZA: 5 - ARMA: Lanza- FACCION: Fatui
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 4 - NOMBRE: Xiao - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Lanza- FACCION: Liyue
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 5 - NOMBRE: Jing Yan - GENERO: Masculino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Mandoble- FACCION: El Luofu de Xianzhou
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 6 - NOMBRE: Kafka - GENERO: Femenino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Arma de fuego- FACCION: Cazadores de Estelaron
+NOMBRE DEL JUEGO: Honkai Star 
+2025-06-07 15:56:40 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:56:40 - INFO - [CLIENT INFO]: Datos recibidos: Rail (HSR) - ID PERSONAJE: 7 - NOMBRE: Gepard - GENERO: Masculino - ELEMENTO: Hielo - RAREZA: 5 - ARMA: Escudo de hielo- FACCION: Guardia Crinargenta
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 19 - NOMBRE: Aventurino - GENERO: Masculino - ELEMENTO: Imaginario - RAREZA: 5 - ARMA: dados de la ruleta- FACCION: Corporacion para la Paz Interastral
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 14 - NOMBRE: Arion Sherwind - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 15 - NOMBRE: Mark Evans - GENERO: Masculino - ELEMENTO: Montaña - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 16 - NOMBRE: Umei Sasanami - GENERO: Masculino - ELEMENTO: Bosque - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 17 - NOMBRE: Sonny Wright - GENERO: Masculino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: Raimon
+NOM
+2025-06-07 15:56:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:56:42 - INFO - [CLIENT INFO]: Datos recibidos: BRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 21 - NOMBRE: Raika Shinohara - GENERO: Femenino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 22 - NOMBRE: Alix La Fontaine - GENERO: Masculino - ELEMENTO: Viento - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 11 - NOMBRE: Brant - GENERO: Masculino - ELEMENTO: Fusion - RAREZA: 5 - ARMA: Espada- FACCION: Troupe Torpe
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 12 - NOMBRE: Zani - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Brazaletes- FACCION: La familia Montelli
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 13 - NOMBRE: Aalto - GENERO: Masculino - ELEMENTO: Aero - RAREZA: 4 - ARMA: Pistolas- FACCION: Costa Negra
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 20 - NOMBRE: Guadacostas - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Rectificador- FACCION: Costa Negra
+
+2025-06-07 15:56:46 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 15:56:46 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 8 - NOMBRE: Hugo - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Guadaña- FACCION: Ruiseñor
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 9 - NOMBRE: Lycaon - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Puños y patadas- FACCION: Servicios Domesticos Victoria
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 10 - NOMBRE: Seth - GENERO: Masculino - ELEMENTO: Electrico - RAREZA: Rango A - ARMA: Porra y escudo policial- FACCION: Equipo de respuesta de la unidad de investigacion criminal
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 18 - NOMBRE: Nekomiya - GENERO: Femenino - ELEMENTO: Fisico - RAREZA: rango S - ARMA: garras- FACCION: Liebres Astutas
+ 
+ENTER PARA CONTINUAR=============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:02:04 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:02:06 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:02:10 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:02:10 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 16:02:12 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:02:12 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 16:02:15 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:02:19 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:02:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:02:25 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:02:35 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-07 16:02:37 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-07 16:02:47 - INFO - [CLIENT INFO]: Mensaje enviado: Steven Green
+2025-06-07 16:02:47 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-07 16:03:22 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-07 16:03:24 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-07 16:03:25 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:03:27 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:03:43 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:03:43 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 16:03:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:03:44 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 16:03:46 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:03:50 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:03:52 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:03:54 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:04:06 - INFO - [CLIENT INFO]: Mensaje enviado: Shawn Froste
+2025-06-07 16:04:08 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 16:04:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:04:17 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:04:19 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:04:21 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:04:23 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-07 16:04:25 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-07 16:04:27 - INFO - [CLIENT INFO]: Mensaje enviado: Shawn Froste
+2025-06-07 16:04:27 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-07 16:04:29 - INFO - [CLIENT INFO]: Mensaje enviado: Aire
+2025-06-07 16:04:29 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-07 16:04:33 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-07 16:04:33 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-07 16:04:39 - INFO - [CLIENT INFO]: Mensaje enviado: Alpino
+2025-06-07 16:04:39 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-07 16:04:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:04:44 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-07 16:04:46 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-07 16:04:46 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Shawn Froste insertado correctamente en la base de datos MySQL.
+2025-06-07 16:04:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:04:49 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:04:51 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:04:53 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 1 - NOMBRE: Bennett - GENERO: Masculino - ELEMENTO: Pyro - RAREZA: 4 - ARMA: Espada- FACCION: Mondstadt
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 2 - NOMBRE: Kazuha - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Espada- FACCION: Inazuma
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 3 - NOMBRE: Arlecchino - GENERO: Femenino - ELEMENTO: Pyro - RAREZA: 5 - ARMA: Lanza- FACCION: Fatui
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 4 - NOMBRE: Xiao - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Lanza- FACCION: Liyue
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 5 - NOMBRE: Jing Yan - GENERO: Masculino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Mandoble- FACCION: El Luofu de Xianzhou
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 6 - NOMBRE: Kafka - GENERO: Femenino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Arma de fuego- FACCION: Cazadores de Estelaron
+NOMBRE DEL JUEGO: Honkai Star 
+2025-06-07 16:04:54 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:04:54 - INFO - [CLIENT INFO]: Datos recibidos: Rail (HSR) - ID PERSONAJE: 7 - NOMBRE: Gepard - GENERO: Masculino - ELEMENTO: Hielo - RAREZA: 5 - ARMA: Escudo de hielo- FACCION: Guardia Crinargenta
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 19 - NOMBRE: Aventurino - GENERO: Masculino - ELEMENTO: Imaginario - RAREZA: 5 - ARMA: dados de la ruleta- FACCION: Corporacion para la Paz Interastral
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 14 - NOMBRE: Arion Sherwind - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 15 - NOMBRE: Mark Evans - GENERO: Masculino - ELEMENTO: Montaña - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 16 - NOMBRE: Umei Sasanami - GENERO: Masculino - ELEMENTO: Bosque - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 17 - NOMBRE: Sonny Wright - GENERO: Masculino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: Raimon
+NOM
+2025-06-07 16:04:55 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:04:55 - INFO - [CLIENT INFO]: Datos recibidos: BRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 21 - NOMBRE: Raika Shinohara - GENERO: Femenino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 22 - NOMBRE: Alix La Fontaine - GENERO: Masculino - ELEMENTO: Viento - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 23 - NOMBRE: Shawn Froste - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Alpino
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 11 - NOMBRE: Brant - GENERO: Masculino - ELEMENTO: Fusion - RAREZA: 5 - ARMA: Espada- FACCION: Troupe Torpe
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 12 - NOMBRE: Zani - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Brazaletes- FACCION: La familia Montelli
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 13 - NOMBRE: Aalto - GENERO: Masculino - ELEMENTO: Aero - RAREZA: 4 - ARMA: Pistolas- FACCION: Costa Negra
+NOMBRE DEL JUEG
+2025-06-07 16:05:03 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:05:03 - INFO - [CLIENT INFO]: Datos recibidos: O: Wuthering Waves (WuWa) - ID PERSONAJE: 20 - NOMBRE: Guadacostas - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Rectificador- FACCION: Costa Negra
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 8 - NOMBRE: Hugo - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Guadaña- FACCION: Ruiseñor
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 9 - NOMBRE: Lycaon - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Puños y patadas- FACCION: Servicios Domesticos Victoria
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 10 - NOMBRE: Seth - GENERO: Masculino - ELEMENTO: Electrico - RAREZA: Rango A - ARMA: Porra y escudo policial- FACCION: Equipo de respuesta de la unidad de investigacion criminal
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 18 - NOMBRE: Nekomiya - GENERO: Femenino - ELEMENTO: Fisico - RAREZA: rango S - ARMA: garras- FACCION: Liebres Astutas
+ 
+ENTER PARA CONTINUAR
+=============== CONSULTAS PERSONAJES MySQL ============
+2025-06-07 16:18:42 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:18:42 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:18:44 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:18:48 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-06-07 16:18:54 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:18:56 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:19:42 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:19:44 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:19:53 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:19:53 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 16:19:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:19:56 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 16:20:04 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:20:08 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:20:21 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:20:23 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 1 - NOMBRE: Bennett - GENERO: Masculino - ELEMENTO: Pyro - RAREZA: 4 - ARMA: Espada- FACCION: Mondstadt
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 2 - NOMBRE: Kazuha - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Espada- FACCION: Inazuma
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 3 - NOMBRE: Arlecchino - GENERO: Femenino - ELEMENTO: Pyro - RAREZA: 5 - ARMA: Lanza- FACCION: Fatui
+NOMBRE DEL JUEGO: Genshin Impact (GI) - ID PERSONAJE: 4 - NOMBRE: Xiao - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Lanza- FACCION: Liyue
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 5 - NOMBRE: Jing Yan - GENERO: Masculino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Mandoble- FACCION: El Luofu de Xianzhou
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 6 - NOMBRE: Kafka - GENERO: Femenino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Arma de fuego- FACCION: Cazadores de Estelaron
+NOMBRE DEL JUEGO: Honkai Star 
+2025-06-07 16:20:48 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:20:48 - INFO - [CLIENT INFO]: Datos recibidos: Rail (HSR) - ID PERSONAJE: 7 - NOMBRE: Gepard - GENERO: Masculino - ELEMENTO: Hielo - RAREZA: 5 - ARMA: Escudo de hielo- FACCION: Guardia Crinargenta
+NOMBRE DEL JUEGO: Honkai Star Rail (HSR) - ID PERSONAJE: 19 - NOMBRE: Aventurino - GENERO: Masculino - ELEMENTO: Imaginario - RAREZA: 5 - ARMA: dados de la ruleta- FACCION: Corporacion para la Paz Interastral
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 14 - NOMBRE: Arion Sherwind - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 15 - NOMBRE: Mark Evans - GENERO: Masculino - ELEMENTO: Montaña - RAREZA: None - ARMA: None- FACCION: Raimon
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 16 - NOMBRE: Umei Sasanami - GENERO: Masculino - ELEMENTO: Bosque - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 17 - NOMBRE: Sonny Wright - GENERO: Masculino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: Raimon
+NOM
+2025-06-07 16:20:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:20:49 - INFO - [CLIENT INFO]: Datos recibidos: BRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 21 - NOMBRE: Raika Shinohara - GENERO: Femenino - ELEMENTO: Fuego - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 22 - NOMBRE: Alix La Fontaine - GENERO: Masculino - ELEMENTO: Viento - RAREZA: None - ARMA: None- FACCION: South Cirrus
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 23 - NOMBRE: Shawn Froste - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Alpino
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 11 - NOMBRE: Brant - GENERO: Masculino - ELEMENTO: Fusion - RAREZA: 5 - ARMA: Espada- FACCION: Troupe Torpe
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 12 - NOMBRE: Zani - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Brazaletes- FACCION: La familia Montelli
+NOMBRE DEL JUEGO: Wuthering Waves (WuWa) - ID PERSONAJE: 13 - NOMBRE: Aalto - GENERO: Masculino - ELEMENTO: Aero - RAREZA: 4 - ARMA: Pistolas- FACCION: Costa Negra
+NOMBRE DEL JUEG
+2025-06-07 16:20:51 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:20:51 - INFO - [CLIENT INFO]: Datos recibidos: O: Wuthering Waves (WuWa) - ID PERSONAJE: 20 - NOMBRE: Guadacostas - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Rectificador- FACCION: Costa Negra
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 8 - NOMBRE: Hugo - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Guadaña- FACCION: Ruiseñor
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 9 - NOMBRE: Lycaon - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Puños y patadas- FACCION: Servicios Domesticos Victoria
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 10 - NOMBRE: Seth - GENERO: Masculino - ELEMENTO: Electrico - RAREZA: Rango A - ARMA: Porra y escudo policial- FACCION: Equipo de respuesta de la unidad de investigacion criminal
+NOMBRE DEL JUEGO: Zenless Zone Zero (ZZZ) - ID PERSONAJE: 18 - NOMBRE: Nekomiya - GENERO: Femenino - ELEMENTO: Fisico - RAREZA: rango S - ARMA: garras- FACCION: Liebres Astutas
+ 
+ENTER PARA CONTINUAR
+=============== CONSULTAS PERSONAJES MySQL ============
+2025-06-07 16:20:55 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:20:55 - INFO - [CLIENT INFO]: Datos recibidos: ==
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:21:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:21:02 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:21:31 - INFO - [CLIENT INFO]: Mensaje enviado: s
+2025-06-07 16:21:33 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-07 16:21:41 - INFO - [CLIENT INFO]: Mensaje enviado: gerard
+2025-06-07 16:21:41 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-07 16:21:59 - INFO - [CLIENT INFO]: Mensaje enviado: tierra
+2025-06-07 16:21:59 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-07 16:22:09 - INFO - [CLIENT INFO]: Mensaje enviado: masculino
+2025-06-07 16:22:09 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-07 16:22:21 - INFO - [CLIENT INFO]: Mensaje enviado: s
+2025-06-07 16:22:21 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE ENTER) 
+2025-06-07 16:22:38 - INFO - [CLIENT INFO]: Mensaje enviado: hacha
+2025-06-07 16:22:38 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-07 16:22:52 - INFO - [CLIENT INFO]: Mensaje enviado: brujo
+2025-06-07 16:22:52 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-07 16:22:54 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:22:54 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-07 16:23:15 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:23:15 - INFO - [CLIENT INFO]: Datos recibidos: Personaje gerard insertado correctamente en la base de datos MySQL.
+2025-06-07 16:23:24 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:23:24 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:23:31 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:23:33 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:23:37 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-07 16:23:39 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-07 16:23:46 - INFO - [CLIENT INFO]: Mensaje enviado: pepe
+2025-06-07 16:23:46 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-07 16:23:53 - INFO - [CLIENT INFO]: Mensaje enviado: fuego
+2025-06-07 16:23:53 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-07 16:24:00 - INFO - [CLIENT INFO]: Mensaje enviado: masculino
+2025-06-07 16:24:00 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-07 16:24:12 - INFO - [CLIENT INFO]: Mensaje enviado: payaso
+2025-06-07 16:24:12 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ 
+ENTER PARA CONTINUAR
+2025-06-07 16:24:21 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-07 16:24:21 - INFO - [CLIENT INFO]: Datos recibidos: Escribe el ID JUEGO
+2025-06-07 16:24:23 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:24:23 - INFO - [CLIENT INFO]: Datos recibidos: Personaje pepe insertado correctamente en la base de datos MySQL.=============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:25:55 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:25:57 - INFO - [CLIENT INFO]: Datos recibidos: Tu personaje tiene arma y rareza? (S/N _ Y/N)
+2025-06-07 16:26:04 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-07 16:26:06 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE 
+2025-06-07 16:26:17 - INFO - [CLIENT INFO]: Mensaje enviado: maria
+2025-06-07 16:26:17 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO 
+2025-06-07 16:26:23 - INFO - [CLIENT INFO]: Mensaje enviado: luz
+2025-06-07 16:26:23 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-07 16:26:27 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:41:56 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-07 16:41:58 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-07 16:42:00 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-07 16:42:00 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MYSQL, ENTER PARA CONTINUAR
+2025-06-07 16:42:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:42:01 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MySQL ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-07 16:42:03 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:42:07 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-07 16:42:11 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-07 16:42:13 - INFO - [CLIENT INFO]: Datos recibidos: =============== OTRAS BUSQUEDAS ==============
+
+ 1. Buscar por nombre
+ 2. Buscar por genero
+ 3. Buscar por elemento
+ 4. Buscar por rareza
+ 5. Buscar por faccion
+ 6. Buscar por juego
+ 7. Filtrar por juegos
+2025-06-07 16:42:14 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-07 16:42:16 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE DEL PERSONAJE
+2025-06-07 16:42:19 - INFO - [CLIENT INFO]: Mensaje enviado: Shawn
+2025-06-07 16:42:19 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+NOMBRE DEL JUEGO: Inazuma Eleven (IE) - ID PERSONAJE: 23 - NOMBRE: Shawn Froste - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None- FACCION: Alpino
+ 
+ENTER PARA CONTINUAR
+
+2025-06-07 16:42:22 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-07 16:42:22 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4.
+2025-06-09 09:55:48 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 09:55:50 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 09:55:52 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:55:52 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 09:55:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 09:55:53 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 09:55:54 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:55:58 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 09:56:04 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:56:06 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 09:56:15 - INFO - [CLIENT INFO]: Mensaje enviado: Zelda
+2025-06-09 09:56:15 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 09:56:17 - INFO - [CLIENT INFO]: Mensaje enviado: Luz
+2025-06-09 09:56:17 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 09:56:20 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-09 09:56:20 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE INTRODUCE: '-')
+2025-06-09 09:56:23 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 09:58:10 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 09:58:12 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 09:58:14 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:14 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 09:58:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 09:58:14 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 09:58:16 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:20 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 09:58:21 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:23 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 09:58:23 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 09:58:33 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 09:58:34 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 09:58:36 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 09:58:40 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:40 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 09:58:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 09:58:41 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 09:58:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:47 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 09:58:50 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 09:58:52 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 09:59:25 - INFO - [CLIENT INFO]: Mensaje enviado: Feixiao
+2025-06-09 09:59:25 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 09:59:27 - INFO - [CLIENT INFO]: Mensaje enviado: aire
+2025-06-09 09:59:27 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 09:59:31 - INFO - [CLIENT INFO]: Mensaje enviado: femenino
+2025-06-09 09:59:31 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE INTRODUCE: '-')
+2025-06-09 09:59:33 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-09 09:59:33 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE INTRODUCE: '-')
+2025-06-09 09:59:42 - INFO - [CLIENT INFO]: Mensaje enviado: hacha
+2025-06-09 09:59:42 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 09:59:59 - INFO - [CLIENT INFO]: Mensaje enviado: El Luofu de Xianzhou
+2025-06-09 09:59:59 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ID: 6 - NOMBRE: The Legend of Zelda: Tears of the Kingdom (TotK)
+
+ ENTER PARA SEGUIR
+2025-06-09 10:00:02 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:00:02 - INFO - [CLIENT INFO]: Datos recibidos: ID DEL JUEGO
+2025-06-09 10:00:03 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 10:00:03 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Feixiao insertado correctamente en la base de datos MongoDB.
+2025-06-09 10:00:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:00:14 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:00:17 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-09 10:00:19 - INFO - [CLIENT INFO]: Datos recibidos: Saliendo...
+2025-06-09 10:01:54 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:01:56 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:01:58 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:02:00 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:02:03 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 10:02:03 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:02:05 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:02:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:02:13 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:02:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:02:14 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:02:16 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 10:02:16 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:02:18 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-06-09 10:02:20 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:22 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:24 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:26 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:28 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:30 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:32 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:34 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:36 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:38 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:40 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:43 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:45 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:47 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:49 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:51 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:56 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:02:59 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:03:01 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:03:03 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 10:03:03 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:03:05 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:03:06 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:03:06 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:03:09 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:03:09 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:03:09 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 10:03:09 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:03:11 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-06-09 10:03:13 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:03:15 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:03:18 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:03:20 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:03:22 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión

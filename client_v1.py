@@ -20,12 +20,14 @@ while True:
             print(f"Datos recibidos: {data.decode()}")
             log_info(f"Datos recibidos: {data.decode()}")
             msg = input("> ")
-            if msg.lower() == 'exit':
+            if msg.lower() == 'exit' or msg == '4':
                     log_info("Cerrando conexión.")
                     print("Cerrando conexión.")
+                    s.close()
                     break
-            s.sendall(msg.encode())
-            log_info(f"Mensaje enviado: {msg}")
+            else:
+                s.sendall(msg.encode())
+                log_info(f"Mensaje enviado: {msg}")
 
     except Exception as e:
         log_error(f"Error en el cliente: {e}")
