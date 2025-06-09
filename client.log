@@ -2974,3 +2974,198 @@ ID: 6 - NOMBRE: The Legend of Zelda: Tears of the Kingdom (TotK)
 2025-06-09 10:03:18 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
 2025-06-09 10:03:20 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
 2025-06-09 10:03:22 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 10:04:47 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:04:49 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:04:52 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:04:52 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:04:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:04:53 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:04:54 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:04:58 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 10:05:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:05:02 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 10:05:05 - INFO - [CLIENT INFO]: Mensaje enviado: Zelda
+2025-06-09 10:05:05 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 10:05:07 - INFO - [CLIENT INFO]: Mensaje enviado: Luz
+2025-06-09 10:05:07 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 10:05:10 - INFO - [CLIENT INFO]: Mensaje enviado: Femenino
+2025-06-09 10:05:10 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (SI EL PERSONAJE NO TIENE INTRODUCE: '-')
+2025-06-09 10:05:13 - INFO - [CLIENT INFO]: Mensaje enviado: -
+2025-06-09 10:05:13 - INFO - [CLIENT INFO]: Datos recibidos: ARMA (SI EL PERSONAJE NO TIENE INTRODUCE: '-')
+2025-06-09 10:05:19 - INFO - [CLIENT INFO]: Mensaje enviado: Magia
+2025-06-09 10:05:19 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 10:05:24 - INFO - [CLIENT INFO]: Mensaje enviado: Hyrule
+2025-06-09 10:05:24 - INFO - [CLIENT INFO]: Datos recibidos: Lista de juegos disponibles:
+ID: 1 - NOMBRE: Genshin Impact (GI)
+ID: 2 - NOMBRE: Honkai Star Rail (HSR)
+ID: 3 - NOMBRE: Zenless Zone Zero (ZZZ)
+ID: 4 - NOMBRE: Wuthering Waves (WuWa)
+ID: 5 - NOMBRE: Inazuma Eleven (IE)
+ID: 6 - NOMBRE: The Legend of Zelda: Tears of the Kingdom (TotK)
+
+ ENTER PARA SEGUIR
+2025-06-09 10:05:27 - INFO - [CLIENT INFO]: Mensaje enviado: 6
+2025-06-09 10:05:27 - INFO - [CLIENT INFO]: Datos recibidos: ID DEL JUEGO
+2025-06-09 10:05:29 - INFO - [CLIENT INFO]: Mensaje enviado: 6
+2025-06-09 10:05:29 - INFO - [CLIENT INFO]: Datos recibidos: Personaje Zelda insertado correctamente en la base de datos MongoDB.=============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:08:35 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:08:37 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:08:40 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:08:40 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:08:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:08:42 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:08:44 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:08:48 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 10:08:50 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 10:08:52 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:08:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:08:56 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:08:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:08:56 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:08:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:08:57 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:08:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:08:57 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:10:19 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:10:21 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:10:23 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:10:23 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:10:24 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:10:24 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:10:25 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:10:29 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 10:10:35 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 10:10:37 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:10:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:10:38 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:10:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:10:38 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:10:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:10:39 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-09 10:11:59 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:12:01 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:12:05 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:12:05 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:12:06 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:12:06 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:12:09 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:12:13 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 10:12:19 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 10:12:21 - INFO - [CLIENT INFO]: Datos recibidos: Lista de personajes:
+ NOMBRE: Bennett - GENERO: Masculino - ELEMENTO: Pyro - RAREZA: 4 - ARMA: Espada - FACCION: Mondstadt
+ NOMBRE: Kazuha - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Espada - FACCION: Inazuma
+ NOMBRE: Arlecchino - GENERO: Femenino - ELEMENTO: Pyro - RAREZA: 5 - ARMA: Lanza - FACCION: Fatui
+ NOMBRE: Xiao - GENERO: Masculino - ELEMENTO: Anemo - RAREZA: 5 - ARMA: Lanza - FACCION: Liyue
+ NOMBRE: Jing Yan - GENERO: Masculino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Mandoble - FACCION: El Luofu de Xianzhou
+ NOMBRE: Kafka - GENERO: Femenino - ELEMENTO: Rayo - RAREZA: 5 - ARMA: Arma de fuego - FACCION: Cazadores de Estelaron
+ NOMBRE: Gepard - GENERO: Masculino - ELEMENTO: Hielo - RAREZA: 5 - ARMA: Escudo de hielo - FACCION: Guardia Crinargenta
+ NOMBRE: Hugo - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Guadaña - FACCION: Ruiseñor
+ NOMBRE: Lycaon - GENERO: Masculino - ELEMENTO: Glacial - RAREZA: Rango S - ARMA: Puños y patadas - FACCION: Servicios Domesticos Victoria
+ 
+2025-06-09 10:12:31 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:12:31 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE: Seth - GENERO: Masculino - ELEMENTO: Electrico - RAREZA: Rango A - ARMA: Porra y escudo policial - FACCION: Equipo de respuesta de la unidad de investigacion criminal
+ NOMBRE: Brant - GENERO: Masculino - ELEMENTO: Fusion - RAREZA: 5 - ARMA: Espada - FACCION: Troupe Torpe
+ NOMBRE: Zani - GENERO: Femenino - ELEMENTO: Espectro - RAREZA: 5 - ARMA: Brazaletes - FACCION: La familia Montelli
+ NOMBRE: Aalto - GENERO: Masculino - ELEMENTO: Aero - RAREZA: 4 - ARMA: Pistolas - FACCION: Costa Negra
+ NOMBRE: Arion  Sherwind - GENERO: Masculino - ELEMENTO: Aire - RAREZA: None - ARMA: None - FACCION: Raimon
+ NOMBRE: Mark Evans - GENERO: Masculino - ELEMENTO: Montaña - RAREZA: None - ARMA: None - FACCION: Raimon
+ NOMBRE: Umei Sasanami - GENERO: Masculino - ELEMENTO: Bosque - RAREZA: None - ARMA: None - FACCION: South Cirrus
+ NOMBRE: Sonny Wright - GENERO: Masculino - ELEMENTO: Fuego - RAREZA: None - ARMA: None - FACCION: Raimon
+ NOMBRE: Feixiao - GENERO: Femenino - ELEMENTO: Aire - RAREZA: 5 - ARMA: Hacha - FACCION:
+2025-06-09 10:12:32 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:12:32 - INFO - [CLIENT INFO]: Datos recibidos:  El luofu de xianzhou
+ 
+ENTER PARA CONTINUAR
+=============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:13:51 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 10:13:53 - INFO - [CLIENT INFO]: Datos recibidos: Bienvenido al servidor masivo v2. 
+ Elige una opcion:
+ 1. MongoDB
+ 2. MySQL
+ Escribe un numero: 
+2025-06-09 10:13:56 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:13:56 - INFO - [CLIENT INFO]: Datos recibidos: SELECCION MONGODB, ENTER PARA CONTINUAR
+2025-06-09 10:14:00 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 10:14:00 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS MONGO DB ==============
+
+ 1. Personajes
+ 2. Empresas
+ 3. Juegos (ANTES DE METER EL JUEGO, SE NECESITA SU NUMERO DE EMPRESA)
+ 4. Salir
+2025-06-09 10:14:21 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 10:14:25 - INFO - [CLIENT INFO]: Datos recibidos: =============== CONSULTAS PERSONAJES MySQL ==============
+
+ 1. Insertar personaje
+ 2. Ver todos los personajes
+ 3. Otras busquedas
+ 4. Salir
+2025-06-09 10:14:28 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 10:14:30 - INFO - [CLIENT INFO]: Datos recibidos: 
+ENTER PARA CONTINUAR
+
