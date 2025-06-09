@@ -20,7 +20,7 @@ while True:
             print(f"Datos recibidos: {data.decode()}")
             log_info(f"Datos recibidos: {data.decode()}")
             msg = input("> ")
-            if msg.lower() == 'exit' or msg == '4':
+            if msg.lower() == 'exit':
                     log_info("Cerrando conexión.")
                     print("Cerrando conexión.")
                     s.close()

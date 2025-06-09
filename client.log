@@ -3203,3 +3203,722 @@ ENTER PARA CONTINUAR
 2025-06-09 11:19:58 - INFO - [CLIENT INFO]: Datos recibidos: Conexión establecida. Envía un mensaje.
 
 2025-06-09 11:20:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:20:30 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 12:20:32 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 12:20:34 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-09 12:23:49 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:23:49 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:40:14 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:40:14 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:40:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:16 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 12:40:17 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:19 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+3. Salir
+2025-06-09 12:40:19 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:28 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:40:28 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:40:29 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:29 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 12:40:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:38 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+3. Salir
+2025-06-09 12:40:44 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 12:40:44 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 12:40:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:47 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Juegos_plataformas
+4. Personajes
+5. Salir
+2025-06-09 12:40:50 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 12:40:50 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:40:50 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:40:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:53 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 12:40:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:40:55 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+3. Salir
+2025-06-09 12:40:55 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:48:21 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:48:21 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:48:31 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:48:31 - INFO - [CLIENT INFO]: Datos recibidos: En esperaELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 12:48:35 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 12:48:35 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 12:48:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:48:39 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 12:48:42 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 12:48:42 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 12:48:45 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:56:54 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:56:54 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:56:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:56:59 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 12:57:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:57:01 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 12:57:02 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 12:57:02 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 12:57:04 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:57:04 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 12:57:07 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 12:57:07 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 12:57:08 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:57:08 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 12:57:11 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 12:57:11 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 12:57:14 - INFO - [CLIENT INFO]: Cerrando conexión.
+2025-06-09 12:57:14 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 12:57:14 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 12:57:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 12:57:19 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 13:58:37 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 13:58:37 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 13:58:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 13:58:42 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 13:58:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 13:58:44 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 13:58:46 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 13:58:46 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 13:58:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 13:58:49 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 13:58:53 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 13:58:53 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 13:58:54 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 13:58:54 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 13:58:57 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 13:58:57 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 13:59:01 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 13:59:01 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 13:59:06 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 13:59:06 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 13:59:08 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 13:59:08 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:00:08 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:00:08 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:00:25 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:00:25 - INFO - [CLIENT INFO]: Datos recibidos: En esperaELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:00:28 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:00:28 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:00:34 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:00:34 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:00:36 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:00:43 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:00:43 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:00:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:00:48 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:00:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:00:49 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:00:54 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:00:54 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:00:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:00:57 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:01:00 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:01:00 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:01:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:01:01 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:01:02 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:01:07 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:01:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:01:14 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:06:34 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:06:34 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:06:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:06:39 - INFO - [CLIENT INFO]: Datos recibidos: En esperaELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:06:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:06:43 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:06:51 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:06:51 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:06:53 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:06:53 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:06:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:06:57 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:07:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:07:00 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 14:07:29 - INFO - [CLIENT INFO]: Mensaje enviado: Neuvillet
+2025-06-09 14:07:29 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 14:07:32 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-09 14:07:32 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 14:07:37 - INFO - [CLIENT INFO]: Mensaje enviado: Fontaine
+2025-06-09 14:07:37 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES: 
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:07:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:07:39 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO
+2025-06-09 14:07:40 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:07:40 - INFO - [CLIENT INFO]: Datos recibidos: OTROS CAMPOS (opcional) 
+ 1.Arma, elemento y rareza 2. Elemento solo 3. Arma solo
+2025-06-09 14:07:43 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:07:48 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:07:51 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:07:51 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:08:28 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:08:28 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:08:31 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:08:33 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:08:35 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:08:35 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:08:37 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:08:37 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:08:39 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:08:39 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:08:41 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:08:41 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:08:43 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:08:43 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:08:46 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:08:46 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 14:09:15 - INFO - [CLIENT INFO]: Mensaje enviado: neuvillette
+2025-06-09 14:09:15 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 14:09:18 - INFO - [CLIENT INFO]: Mensaje enviado: masculino
+2025-06-09 14:09:18 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 14:09:21 - INFO - [CLIENT INFO]: Mensaje enviado: Fontaine
+2025-06-09 14:09:21 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES: 
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:09:22 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:09:22 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO
+2025-06-09 14:09:24 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:09:24 - INFO - [CLIENT INFO]: Datos recibidos: OTROS CAMPOS (opcional) 
+ 1.Arma, elemento y rareza 2. Elemento solo 3. Arma solo
+2025-06-09 14:09:26 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:09:26 - INFO - [CLIENT INFO]: Datos recibidos: TIPO DE ARMA
+2025-06-09 14:09:30 - INFO - [CLIENT INFO]: Mensaje enviado: Catalizador
+2025-06-09 14:09:30 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 14:09:33 - INFO - [CLIENT INFO]: Mensaje enviado: hydro
+2025-06-09 14:09:33 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA
+2025-06-09 14:09:35 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-09 14:09:40 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:11:08 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:11:08 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:11:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:11:14 - INFO - [CLIENT INFO]: Datos recibidos: En esperaELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:11:16 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:11:16 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:11:19 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:11:19 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:11:22 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:11:22 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:11:23 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:11:23 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:11:24 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:11:24 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 14:11:32 - INFO - [CLIENT INFO]: Mensaje enviado: Neuvillette
+2025-06-09 14:11:32 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 14:11:34 - INFO - [CLIENT INFO]: Mensaje enviado: masculino
+2025-06-09 14:11:34 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 14:11:37 - INFO - [CLIENT INFO]: Mensaje enviado: fontaine
+2025-06-09 14:11:37 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES: 
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:11:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:11:38 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO
+2025-06-09 14:11:41 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:11:41 - INFO - [CLIENT INFO]: Datos recibidos: OTROS CAMPOS (opcional) 
+ 1.Arma, elemento y rareza 2. Elemento solo 3. Arma solo
+2025-06-09 14:11:42 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:11:42 - INFO - [CLIENT INFO]: Datos recibidos: TIPO DE ARMA
+2025-06-09 14:11:48 - INFO - [CLIENT INFO]: Mensaje enviado: catalizador
+2025-06-09 14:11:48 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 14:11:50 - INFO - [CLIENT INFO]: Mensaje enviado: hydro
+2025-06-09 14:11:50 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA
+2025-06-09 14:11:53 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-09 14:11:58 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:12:02 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:12:02 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:12:56 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:12:56 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:12:57 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:13:01 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:13:02 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:13:02 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:13:05 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:13:05 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:13:06 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:13:06 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:13:08 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:13:08 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:13:09 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:13:09 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:13:12 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:13:12 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 14:13:17 - INFO - [CLIENT INFO]: Mensaje enviado: Rina
+2025-06-09 14:13:17 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 14:13:23 - INFO - [CLIENT INFO]: Mensaje enviado: Femeninp
+2025-06-09 14:13:23 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 14:13:42 - INFO - [CLIENT INFO]: Mensaje enviado: Servicios Domesticos Victoria
+2025-06-09 14:13:42 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES: 
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:13:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:13:44 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO
+2025-06-09 14:13:46 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:13:46 - INFO - [CLIENT INFO]: Datos recibidos: OTROS CAMPOS (opcional) 
+ 1.Arma, elemento y rareza 2. Elemento solo 3. Arma solo
+2025-06-09 14:13:58 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 14:13:58 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 14:14:04 - INFO - [CLIENT INFO]: Mensaje enviado: Rayo
+2025-06-09 14:14:09 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:16:49 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:16:49 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:16:53 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:16:54 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:17:00 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:17:00 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:17:21 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:17:21 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:17:23 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:17:23 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:17:24 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:17:24 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:17:26 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:17:26 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar 
+2. Consultar todos los elementos  
+3.Otro tipo de consulta 
+4.Salir
+2025-06-09 14:17:27 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:17:27 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE
+2025-06-09 14:18:10 - INFO - [CLIENT INFO]: Mensaje enviado: Shawn Froste
+2025-06-09 14:18:10 - INFO - [CLIENT INFO]: Datos recibidos: GENERO
+2025-06-09 14:18:13 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-09 14:18:13 - INFO - [CLIENT INFO]: Datos recibidos: FACCION
+2025-06-09 14:18:16 - INFO - [CLIENT INFO]: Mensaje enviado: Alpino
+2025-06-09 14:18:16 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES: 
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:18:18 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:18:18 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO
+2025-06-09 14:18:19 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-09 14:18:19 - INFO - [CLIENT INFO]: Datos recibidos: OTROS CAMPOS (opcional) 
+ 1.Arma, elemento y rareza 2. Elemento solo 3. Arma solo
+2025-06-09 14:18:21 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 14:18:21 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO
+2025-06-09 14:18:23 - INFO - [CLIENT INFO]: Mensaje enviado: Aire
+2025-06-09 14:18:28 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:18:31 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:18:31 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:31:20 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:31:20 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:31:22 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:31:25 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:31:26 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:31:26 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:31:32 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:31:32 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:31:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:31:42 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:31:46 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:31:46 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:31:47 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:31:47 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:31:48 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:31:48 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE: 
+2025-06-09 14:31:53 - INFO - [CLIENT INFO]: Mensaje enviado: Neuvillette
+2025-06-09 14:31:53 - INFO - [CLIENT INFO]: Datos recibidos: GENERO: 
+2025-06-09 14:31:59 - INFO - [CLIENT INFO]: Mensaje enviado: masculino
+2025-06-09 14:31:59 - INFO - [CLIENT INFO]: Datos recibidos: FACCION: 
+2025-06-09 14:32:07 - INFO - [CLIENT INFO]: Mensaje enviado: fontain
+2025-06-09 14:32:07 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES:
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:32:13 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:32:13 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO: 
+2025-06-09 14:32:14 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:32:14 - INFO - [CLIENT INFO]: Datos recibidos: Indica campos extra:
+1. Arma, elemento y rareza
+2. Solo elemento
+3. Solo arma
+4. Ninguno (dejar en blanco)
+
+2025-06-09 14:32:17 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:32:17 - INFO - [CLIENT INFO]: Datos recibidos: TIPO DE ARMA: 
+2025-06-09 14:32:20 - INFO - [CLIENT INFO]: Mensaje enviado: catalizador
+2025-06-09 14:32:20 - INFO - [CLIENT INFO]: Datos recibidos: ELEMENTO: 
+2025-06-09 14:32:23 - INFO - [CLIENT INFO]: Mensaje enviado: hydro
+2025-06-09 14:32:23 - INFO - [CLIENT INFO]: Datos recibidos: RAREZA (puede ser: 'rango S', 'Rango A', '4', '5', etc): 
+2025-06-09 14:32:26 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-09 14:32:26 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente en la colección.\n
+2025-06-09 14:32:28 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:32:28 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:32:48 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:32:48 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE: 
+2025-06-09 14:34:16 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:34:16 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:34:24 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:34:24 - INFO - [CLIENT INFO]: Datos recibidos: En esperaELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:34:29 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:34:29 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:34:32 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:34:32 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:34:37 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:34:37 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:34:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:34:38 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:34:41 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:34:41 - INFO - [CLIENT INFO]: Datos recibidos: NOMBRE: 
+2025-06-09 14:34:48 - INFO - [CLIENT INFO]: Mensaje enviado: Wise
+2025-06-09 14:34:48 - INFO - [CLIENT INFO]: Datos recibidos: GENERO: 
+2025-06-09 14:34:51 - INFO - [CLIENT INFO]: Mensaje enviado: Masculino
+2025-06-09 14:34:51 - INFO - [CLIENT INFO]: Datos recibidos: FACCION: 
+2025-06-09 14:34:53 - INFO - [CLIENT INFO]: Mensaje enviado: Proxy
+2025-06-09 14:34:53 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE JUEGOS ACTUALES:
+1 - Genshin Impact (GI)
+2 - Honkai Star Rail (HSR)
+3 - Zenless Zone Zero (ZZZ)
+4 - Wuthering Waves (WuWa)
+5 - Inazuma Eleven (IE)
+6 - The Legend of Zelda: Tears of the Kingdom (TotK)
+
+2025-06-09 14:34:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:34:56 - INFO - [CLIENT INFO]: Datos recibidos: ID JUEGO: 
+2025-06-09 14:34:57 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:34:57 - INFO - [CLIENT INFO]: Datos recibidos: Indica campos extra:
+1. Arma, elemento y rareza
+2. Solo elemento
+3. Solo arma
+4. Ninguno (dejar en blanco)
+
+2025-06-09 14:34:59 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-09 14:34:59 - INFO - [CLIENT INFO]: Datos recibidos: No se añadirá ningún campo extra.
+
+2025-06-09 14:35:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:35:01 - INFO - [CLIENT INFO]: Datos recibidos: Personaje insertado correctamente en la colección.\nSelecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:38:05 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:38:05 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:38:08 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:38:10 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:38:11 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:38:11 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:38:13 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:38:13 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:38:14 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:38:14 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:38:16 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:38:16 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:38:16 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:38:16 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:38:20 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 14:38:20 - INFO - [CLIENT INFO]: Datos recibidos: === PERSONAJES ===
+ID: 1 | Nombre: Bennett | Rareza: 4 | Juego: 
+ID: 2 | Nombre: Kazuha | Rareza: 5 | Juego: 
+ID: 3 | Nombre: Arlecchino | Rareza: 5 | Juego: 
+ID: 4 | Nombre: Xiao | Rareza: 5 | Juego: 
+ID: 5 | Nombre: Jing Yan | Rareza: 5 | Juego: 
+ID: 6 | Nombre: Kafka | Rareza: 5 | Juego: 
+ID: 7 | Nombre: Gepard | Rareza: 5 | Juego: 
+ID: 8 | Nombre: Hugo | Rareza: Rango S | Juego: 
+ID: 9 | Nombre: Lycaon | Rareza: Rango S | Juego: 
+ID: 10 | Nombre: Seth | Rareza: Rango A | Juego: 
+ID: 11 | Nombre: Brant | Rareza: 5 | Juego: 
+ID: 12 | Nombre: Zani | Rareza: 5 | Juego: 
+ID: 13 | Nombre: Aalto | Rareza: 4 | Juego: 
+ID: 14 | Nombre: Arion | Rareza: None | Juego: 
+ID: 15 | Nombre: Mark | Rareza: None | Juego: 
+ID: 16 | Nombre: Umei | Rareza: None | Juego: 
+ID: 17 | Nombre: Sonny | Rareza: None | Juego: 
+ID: 18 | Nombre: Link | Rareza: None | Juego: 
+ID: 19 | Nombre: Zelda | Rareza: None | Juego: 
+ID: 20 | Nombre: Neuvillette | Rareza: 5 | Juego: 1
+ID: 21 | Nombre: Wise | Rareza: None | Juego: 3
+
+2025-06-09 14:40:52 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-09 14:40:52 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+2025-06-09 14:40:55 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:40:57 - INFO - [CLIENT INFO]: Datos recibidos: En espera
+2025-06-09 14:40:58 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:40:58 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Consultar datos de MongoDB
+2. Consultar datos de MySQL
+4. Salir
+2025-06-09 14:41:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-09 14:41:00 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de MongoDB...
+
+2025-06-09 14:41:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:41:01 - INFO - [CLIENT INFO]: Datos recibidos: Consultar datos en MongoDB, seleccionar la colección:
+1. Empresa
+2. Juegos
+3. Personajes(OPCION DISPONIBLE)
+4. Salir
+2025-06-09 14:41:03 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-09 14:41:03 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de la colección 'Personajes' en MongoDB...
+
+2025-06-09 14:41:03 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:41:03 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
+2025-06-09 14:41:05 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-09 14:41:05 - INFO - [CLIENT INFO]: Datos recibidos: === PERSONAJES ===
+ID: 1 | Nombre: Bennett | Rareza: 4 | Arma: Espada | Elemento: Pyro | Facción: Mondstadt
+ID: 2 | Nombre: Kazuha | Rareza: 5 | Arma: Espada | Elemento: Anemo | Facción: Inazuma
+ID: 3 | Nombre: Arlecchino | Rareza: 5 | Arma: Lanza | Elemento: Pyro | Facción: Fatui
+ID: 4 | Nombre: Xiao | Rareza: 5 | Arma: Lanza | Elemento: Anemo | Facción: Liyue
+ID: 5 | Nombre: Jing Yan | Rareza: 5 | Arma: Mandoble | Elemento: Rayo | Facción: El Luofu de Xianzhou
+ID: 6 | Nombre: Kafka | Rareza: 5 | Arma: Arma de fuego | Elemento: Rayo | Facción: Cazadores de Estelaron
+ID: 7 | Nombre: Gepard | Rareza: 5 | Arma: Escudo de hielo | Elemento: Hielo | Facción: Guardia Crinargenta
+ID: 8 | Nombre: Hugo | Rareza: Rango S | Arma: Guadaña | Elemento: Glacial | Facción: Ruiseñor
+ID: 9 | Nombre: Lycaon | Rareza: Rango S | Arma: Puños y patadas | Elemento: Glacial | Facción: Servicios Domesticos Victoria
+ID: 10 | Nombre: Seth | Rareza: Rango A | Arma: Porra y escudo policial | Elemento: Electrico | Facción: Equ
+2025-06-09 14:41:09 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:41:09 - INFO - [CLIENT INFO]: Datos recibidos: ipo de respuesta de la unidad de investigacion criminal
+ID: 11 | Nombre: Brant | Rareza: 5 | Arma: Espada | Elemento: Fusion | Facción: Troupe Torpe
+ID: 12 | Nombre: Zani | Rareza: 5 | Arma: Brazaletes | Elemento: Espectro | Facción: La familia Montelli
+ID: 13 | Nombre: Aalto | Rareza: 4 | Arma: Pistolas | Elemento: Aero | Facción: Costa Negra
+ID: 14 | Nombre: Arion | Rareza: None | Arma: None | Elemento: Aire | Facción: Raimon
+ID: 15 | Nombre: Mark | Rareza: None | Arma: None | Elemento: Montaña | Facción: Raimon
+ID: 16 | Nombre: Umei | Rareza: None | Arma: None | Elemento: Bosque | Facción: South Cirrus
+ID: 17 | Nombre: Sonny | Rareza: None | Arma: None | Elemento: Fuego | Facción: Raimon
+ID: 18 | Nombre: Link | Rareza: None | Arma: Espada maestra | Elemento: None | Facción: Reino de Hyrule
+ID: 19 | Nombre: Zelda | Rareza: None | Arma: magia | Elemento: Luz | Facción: Reino de Hyrule
+ID: 20 | Nombre: Neuvillette | Rareza: 5 | Arma: Catalizador | Elemento: Hydro | Facción: Fontain
+ID: 21 | Nombre:
+2025-06-09 14:41:12 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-09 14:41:12 - INFO - [CLIENT INFO]: Datos recibidos:  Wise | Rareza: None | Arma: None | Elemento: None | Facción: Proxy
+Selecciona una opción:
+1. Insertar
+2. Consultar todos los elementos
+3. Otro tipo de consulta
+4. Salir
+
