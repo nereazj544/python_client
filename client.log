@@ -6199,3 +6199,280 @@ ID: 6, Nombre: Pueblo Paleta
 2025-06-11 16:35:59 - INFO - [CLIENT INFO]: Mensaje enviado: 2025-06-11 16:35:59
 2025-06-11 16:35:59 - INFO - [CLIENT INFO]: Datos recibidos: Incidencia para tecnico 2 y terminal 4 insertada correctamente.
 
+2025-06-11 16:57:55 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-11 16:57:55 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-11 16:57:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-11 16:58:00 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-11 16:58:02 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-11 16:58:02 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-11 16:58:03 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-11 16:58:03 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-11 16:58:07 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-11 16:58:07 - INFO - [CLIENT INFO]: Datos recibidos: Incidencias pendientes de actualización:
+ID: 2, Terminal: 4, Descripción: No responde el teclado., Fecha Reportada: 2025-06-05 15:10:00, Solucionada: 0, Fecha Solución: None, Técnico ID: 2, Ubicación: Averiado, Zona: 4
+ID: 5, Terminal: 4, Descripción: le duele el estomago a la chisma, Fecha Reportada: 2025-06-11 16:35:59, Solucionada: 0, Fecha Solución: None, Técnico ID: 2, Ubicación: Averiado, Zona: 4
+
+2025-06-11 16:58:09 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-11 16:58:09 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona el ID de la incidencia que quieres actualizar: 
+2025-06-11 16:58:12 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-11 16:58:12 - INFO - [CLIENT INFO]: Datos recibidos: Incidencias pendientes de actualización:
+ID: 2, Terminal: 4, Descripción: No responde el teclado., Fecha Reportada: 2025-06-05 15:10:00, Solucionada: 0, Fecha Solución: None, Técnico ID: 2, Ubicación: Averiado, Zona: 4
+ID: 5, Terminal: 4, Descripción: le duele el estomago a la chisma, Fecha Reportada: 2025-06-11 16:35:59, Solucionada: 0, Fecha Solución: None, Técnico ID: 2, Ubicación: Averiado, Zona: 4
+
+2025-06-11 16:58:15 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-11 16:58:15 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona el ID de la incidencia que quieres actualizar: 
+2025-06-12 10:09:10 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 10:09:10 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 10:09:11 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:09:15 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 10:10:53 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 10:10:53 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 10:10:54 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:10:54 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 10:10:57 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-12 10:12:29 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 10:12:29 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 10:12:30 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:34 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 10:12:36 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 10:12:36 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 10:12:37 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:37 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 10:12:39 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-12 10:12:39 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:40 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:40 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:40 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:40 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:41 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:42 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:12:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:12:42 - INFO - [CLIENT INFO]: Datos recibidos: 
+2025-06-12 10:13:41 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 10:13:41 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 10:13:42 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:13:46 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 10:13:48 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 10:13:48 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 10:13:49 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:13:49 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 10:13:52 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-12 10:13:53 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 10:14:00 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-12 10:14:00 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 10:14:02 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-12 10:14:02 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona un ID del tecnico: 
+ID: 1, Nombre: Bennett
+ID: 2, Nombre: Link
+ID: 3, Nombre: Misty
+ID: 4, Nombre: Jill
+
+2025-06-12 10:14:07 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:14:07 - INFO - [CLIENT INFO]: Datos recibidos: El ID del tecnico que quiere añadir
+2025-06-12 10:14:10 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 10:14:10 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona un ID del terminal: 
+ID: 4, Nombre: Bosque Kokiri
+ID: 6, Nombre: Pueblo Paleta
+
+2025-06-12 10:14:17 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-12 10:14:17 - INFO - [CLIENT INFO]: Datos recibidos: El ID del terminal que quiere añadir
+2025-06-12 10:14:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:14:20 - INFO - [CLIENT INFO]: Datos recibidos: Descripción de la incidencia
+2025-06-12 10:14:23 - INFO - [CLIENT INFO]: Mensaje enviado: sda
+2025-06-12 10:14:23 - INFO - [CLIENT INFO]: Datos recibidos: Fecha y hora de la incidencia (formato: YYYY-MM-DD HH:MM:SS)
+2025-06-12 10:14:38 - INFO - [CLIENT INFO]: Mensaje enviado: 2025-06-13 12:00:01
+2025-06-12 10:14:38 - INFO - [CLIENT INFO]: Datos recibidos: Incidencia para tecnico 3 y terminal 4 insertada correctamente.
+
+2025-06-12 10:14:41 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 10:14:41 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+
+2025-06-12 11:24:36 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 11:24:36 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 11:24:38 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:24:41 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 11:24:44 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:24:44 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 11:24:44 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:24:44 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+4. Actualizar estado de terminales 
+
+2025-06-12 11:24:49 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-12 11:24:54 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 11:24:58 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:24:58 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 11:24:59 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:24:59 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+4. Actualizar estado de terminales 
+
+2025-06-12 11:25:03 - INFO - [CLIENT INFO]: Mensaje enviado: 32
+2025-06-12 11:25:08 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 11:25:11 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:25:11 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 11:25:13 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:25:13 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+4. Actualizar estado de terminales 
+
+2025-06-12 11:25:15 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:25:15 - INFO - [CLIENT INFO]: Datos recibidos: Incidencias pendientes de actualización:\nID: 2 | Nombre Terminal: Kokiri Forest | Estado Terminal: Averiado | Ubicación: Bosque Kokiri | Zona: Hyrule | Fecha Reportada: 2025-06-05 15:10:00 | Descripción: No responde el teclado. | Técnico: Link\nID: 5 | Nombre Terminal: Kokiri Forest | Estado Terminal: Averiado | Ubicación: Bosque Kokiri | Zona: Hyrule | Fecha Reportada: 2025-06-13 12:00:01 | Descripción: sda | Técnico: Misty\n
+2025-06-12 11:25:42 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 11:25:42 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 11:25:52 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:25:52 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-12 11:25:55 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:25:55 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de Incidencias...
+
+2025-06-12 11:26:01 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:26:01 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+4. Actualizar estado de terminales 
+
+2025-06-12 11:26:04 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:26:04 - INFO - [CLIENT INFO]: Datos recibidos: Incidencias pendientes de actualización:
+ID: 2 | Nombre Terminal: Kokiri Forest | Estado Terminal: Averiado | Ubicación: Bosque Kokiri | Zona: Hyrule | Fecha Reportada: 2025-06-05 15:10:00 | Descripción: No responde el teclado. | Técnico: Link
+ID: 5 | Nombre Terminal: Kokiri Forest | Estado Terminal: Averiado | Ubicación: Bosque Kokiri | Zona: Hyrule | Fecha Reportada: 2025-06-13 12:00:01 | Descripción: sda | Técnico: Misty
+
+2025-06-12 11:26:08 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:26:08 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona el ID de la incidencia que quieres actualizar: 
+2025-06-12 11:26:22 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:26:22 - INFO - [CLIENT INFO]: Datos recibidos: ¿La incidencia está solucionada? (si/no): 
+2025-06-12 11:26:28 - INFO - [CLIENT INFO]: Mensaje enviado: n
+2025-06-12 11:26:28 - INFO - [CLIENT INFO]: Datos recibidos: Incidencia 3 actualizada correctamente.\n
+2025-06-12 11:26:32 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:26:32 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de INCIDENCIAS con MySQL. Selecciona la consulta que quieras hacer: 
+1. Consultar incidencias 
+2. Añadir incidencia 
+3. Actualizar incidencia 
+4. Actualizar estado de terminales 
+
+2025-06-12 11:26:35 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-12 11:26:35 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona un terminal por su ID: 
+ID TERMINAL: 3 | NOMBRE TERMINAL: Castillo Central | ESTADO: Operativo | DESCRIPCIÓN: None | FECHA REPORTADA: None | TÉCNICO ASIGNADO: None
+ID TERMINAL: 7 | NOMBRE TERMINAL: Comisaría Dpto.1 | ESTADO: Operativo | DESCRIPCIÓN: None | FECHA REPORTADA: None | TÉCNICO ASIGNADO: None
+ID TERMINAL: 8 | NOMBRE TERMINAL: Hospital Central | ESTADO: En Reparación | DESCRIPCIÓN: Bloqueo del sistema. | FECHA REPORTADA: 2025-06-08 09:30:00 | TÉCNICO ASIGNADO: Jill
+ID TERMINAL: 4 | NOMBRE TERMINAL: Kokiri Forest | ESTADO: Averiado | DESCRIPCIÓN: No responde el teclado. | FECHA REPORTADA: 2025-06-05 15:10:00 | TÉCNICO ASIGNADO: Link
+ID TERMINAL: 4 | NOMBRE TERMINAL: Kokiri Forest | ESTADO: Averiado | DESCRIPCIÓN: sda | FECHA REPORTADA: 2025-06-13 12:00:01 | TÉCNICO ASIGNADO: Misty
+ID TERMINAL: 2 | NOMBRE TERMINAL: Liyue Portátil | ESTADO: En Reparación | DESCRIPCIÓN: Pantalla en negro tras actualización. | FECHA REPORTADA: 2025-06-02 12:35:00 | TÉCNICO ASIGNADO: Bennett
+ID 
+2025-06-12 11:26:36 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:26:36 - INFO - [CLIENT INFO]: Datos recibidos: TERMINAL: 1 | NOMBRE TERMINAL: Mondstadt Principal | ESTADO: Operativo | DESCRIPCIÓN: None | FECHA REPORTADA: None | TÉCNICO ASIGNADO: None
+ID TERMINAL: 6 | NOMBRE TERMINAL: Paleta Backup | ESTADO: Averiado | DESCRIPCIÓN: Problema de red intermitente. | FECHA REPORTADA: 2025-06-07 12:00:00 | TÉCNICO ASIGNADO: Misty
+ID TERMINAL: 5 | NOMBRE TERMINAL: Plateada Ext | ESTADO: Operativo | DESCRIPCIÓN: None | FECHA REPORTADA: None | TÉCNICO ASIGNADO: None
+Selecciona un ID del tecnico: 
+ID: 1, Nombre: Bennett
+ID: 2, Nombre: Link
+ID: 3, Nombre: Misty
+ID: 4, Nombre: Jill
+El ID del tecnico que quiere añadir
+2025-06-12 11:26:45 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-12 11:26:45 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona un ID del terminal: 
+ID: 4, Nombre: Bosque Kokiri
+ID: 6, Nombre: Pueblo Paleta
+
+2025-06-12 11:26:49 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:26:49 - INFO - [CLIENT INFO]: Datos recibidos: El ID del terminal que quiere añadir
+2025-06-12 11:26:52 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-12 11:26:52 - INFO - [CLIENT INFO]: Datos recibidos: Descripción de la incidencia
+2025-06-12 11:26:56 - INFO - [CLIENT INFO]: Mensaje enviado: jodida
+2025-06-12 11:26:56 - INFO - [CLIENT INFO]: Datos recibidos: Fecha y hora de la incidencia (formato: YYYY-MM-DD HH:MM:SS)
+2025-06-12 11:27:10 - INFO - [CLIENT INFO]: Mensaje enviado: 2025-09-31 09:98:23
+2025-06-12 11:27:10 - ERROR - [CLIENT ERROR]: Error en el cliente: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+2025-06-12 11:27:10 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-12 11:27:10 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-12 11:27:12 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-12 11:27:15 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
