@@ -7480,3 +7480,48 @@ ID: 4, Nombre: Cocodrilo, Especie: Reptil
 2. Filtar animales por especie
 3. salir
 2025-06-13 11:38:06 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:50:53 - INFO - [CLIENT INFO]: Conexión establecida con el servidor.
+2025-06-13 11:50:53 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-13 11:50:55 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:50:58 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Animales
+2. Recintos
+3. Cuidador
+4. Salir
+2025-06-13 11:51:01 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-13 11:51:01 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción Animales.
+
+2025-06-13 11:51:02 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:51:02 - INFO - [CLIENT INFO]: Datos recibidos: Conexión establecida con la base de datos MySQL para Animales.
+1. Ver todos los animales
+2. Filtar animales por especie
+3. Insertar un nuevo animal
+4. Salir
+2025-06-13 11:51:04 - INFO - [CLIENT INFO]: Mensaje enviado: 3
+2025-06-13 11:51:04 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción Insertar un nuevo animal.
+
+2025-06-13 11:51:05 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:51:05 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el nombre del animal: 
+2025-06-13 11:51:09 - INFO - [CLIENT INFO]: Mensaje enviado: Delfin
+2025-06-13 11:51:09 - INFO - [CLIENT INFO]: Datos recibidos: Introduce la especie del animal: 
+2025-06-13 11:51:15 - INFO - [CLIENT INFO]: Mensaje enviado: Marino
+2025-06-13 11:51:15 - INFO - [CLIENT INFO]: Datos recibidos: Animal Delfin de especie Marino insertado correctamente.
+
+2025-06-13 11:51:17 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:51:17 - INFO - [CLIENT INFO]: Datos recibidos: Lista de animales y recintos disponibles:
+LISTA DE ANIMALES:
+ID: 1, Nombre: Tigre
+ID: 2, Nombre: León
+ID: 3, Nombre: Pantera
+ID: 4, Nombre: Cocodrilo
+ID: 5, Nombre: Delfin
+Introduce el ID del animal: 
+2025-06-13 11:51:21 - INFO - [CLIENT INFO]: Mensaje enviado: 5
+2025-06-13 11:51:21 - INFO - [CLIENT INFO]: Datos recibidos: LISTA DE RECINTOS:
+ID: 1, Nombre: Recinto de Felinos
+ID: 2, Nombre: Recinto de Reptiles
+
+2025-06-13 11:51:27 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-13 11:51:27 - INFO - [CLIENT INFO]: Datos recibidos: Introduce el ID del recinto donde se ubicará el animal: 
+2025-06-13 11:51:30 - INFO - [CLIENT INFO]: Mensaje enviado: 
