@@ -14,8 +14,8 @@ ACTIVO = False  # Variable para indicar si el cliente está activo, se inicializ
 
 
 
-
-customtkinter.set_appearance_mode("System")  # "System", "Dark", "Light" (modo de apariencia)
+# TODO: Configuración de CustomTkinter
+customtkinter.set_appearance_mode("System")  # "System" (pilla la configuracion por defecto del sistema), "Dark", "Light" (modo de apariencia)
 customtkinter.set_default_color_theme("dark-blue")  # blue (defecto), dark-blue, green
 
 
@@ -34,6 +34,46 @@ def button_function():
 def button_send():
     print("Botón presionado: ENVIAR MENSAJE")  # Acción al presionar el botón
     messagebox.showinfo("Información", "Mensaje enviado al servidor")  # Mostrar un mensaje de información
+    enviar_mensaje()  # Llamar a la función para enviar un mensaje al servidor
+
+
+def enviar_mensaje():
+    global client_socket, ACTIVO  # Acceder a las variables globales
+    if not ACTIVO:  # Si el cliente no está activo, mostrar un mensaje de error
+        text_info.insert(tkinter.END, "Error: No hay conexión activa con el servidor.\n")
+        log_error("Error: No hay conexión activa con el servidor.")  # Registrar el error
+        return
+    
+    msg = text.get("1.0", tkinter.END).strip()  # Obtener el mensaje del cuadro de texto
+    if msg.lower() == 'exit':  # Si el mensaje es 'exit', cerrar la conexión
+        text_info.insert(tkinter.END, "Cerrando conexión...\n")  # Insertar texto en el cuadro de texto
+        log_info("Cerrando conexión...")  # Registrar el cierre de la conexión
+        ACTIVO = False  # Cambiar el estado a inactivo
+        client_socket.close()  # Cerrar el socket del cliente
+        messagebox.showinfo("Información", "Conexión cerrada")  # Mostrar un mensaje de información
+        return
+    try:
+        client_socket.sendall(msg.encode())  # Enviar el mensaje al servidor
+        text_info.insert(tkinter.END, f"Mensaje enviado: {msg}\n")  # Insertar el mensaje enviado en el cuadro de texto
+        log_info(f"Mensaje enviado: {msg}")  # Registrar el mensaje enviado
+
+
+    except Exception as e:
+        text_info.insert(tkinter.END, f"Error al enviar mensaje: {e}\n")
+        log_error(f"Error al enviar mensaje: {e}")  # Registrar el error
+
+    mensaje = text.get("1.0", tkinter.END).strip()  # Obtener el mensaje del cuadro de texto
+    if mensaje:  # Si el mensaje no está vacío
+        try:
+            client_socket.sendall(mensaje.encode())  # Enviar el mensaje al servidor
+            text_info.insert(tkinter.END, f"Mensaje enviado: {mensaje}\n")  # Insertar el mensaje enviado en el cuadro de texto
+            log_info(f"Mensaje enviado: {mensaje}")  # Registrar el mensaje enviado
+        except Exception as e:
+            text_info.insert(tkinter.END, f"Error al enviar mensaje: {e}\n")
+            log_error(f"Error al enviar mensaje: {e}")  # Registrar el error
+    else:
+        text_info.insert(tkinter.END, "Error: El mensaje está vacío.\n")
+        log_warning("El mensaje está vacío.")  # Registrar la advertencia
 
 
 def recibir():
