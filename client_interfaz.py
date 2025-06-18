@@ -20,7 +20,7 @@ customtkinter.set_default_color_theme("dark-blue")  # blue (defecto), dark-blue,
 
 
 app = customtkinter.CTk()  # Crear la ventana principal || a 'app' se le puede llamar como quieras, pero normalmente se llama 'root'
-app.geometry("800x600")  # Establecer el tamaño de la ventana
+app.geometry("850x650")  # Establecer el tamaño de la ventana
 
 
 
@@ -43,10 +43,10 @@ def recibir():
             data = client_socket.recv(1024)  # Recibir datos del servidor
             if not data:  # Si no hay datos, salir del bucle
                 break
-            text.insert(tkinter.END, f"Datos recibidos: {data.decode()}\n")  # Insertar los datos recibidos en el cuadro de texto
+            text_info.insert(tkinter.END, f"Datos recibidos: {data.decode()}\n")  # Insertar los datos recibidos en el cuadro de texto
             log_info(f"Datos recibidos: {data.decode()}")  # Registrar los datos recibidos
         except Exception as e:
-            text.insert(tkinter.END, f"Error al recibir datos: {e}\n")
+            text_info.insert(tkinter.END, f"Error al recibir datos: {e}\n")
             log_error(f"Error al recibir datos: {e}")  # Registrar el error
             break
 
@@ -58,10 +58,10 @@ def connect():
         client_socket.connect((HOST, PORT))  # Conectar al servidor
         ACTIVO = True  # Cambiar el estado a activo
         log_info("Conexión establecida con el servidor")  # Registrar la conexión exitosa
-        text.insert(tkinter.END, "Conectado al servidor\n")  # Insertar texto en el cuadro de texto
+        text_info.insert(tkinter.END, "Conectado al servidor\n")  # Insertar texto en el cuadro de texto
         log_info("Conectado al servidor")  # Registrar la conexión exitosa
     except Exception as e:
-        text.insert(tkinter.END, f"Error al conectar: {e}\n")
+        text_info.insert(tkinter.END, f"Error al conectar: {e}\n")
         messagebox.showerror("Error", f"Error al conectar: {e}")
         log_error(f"Error al conectar: {e}")  # Registrar el error
 
