@@ -1,4 +1,5 @@
 import tkinter
+from tkinter import messagebox
 import customtkinter 
 import socket
 import threading
@@ -15,7 +16,7 @@ ACTIVO = False  # Variable para indicar si el cliente está activo, se inicializ
 
 
 customtkinter.set_appearance_mode("System")  # "System", "Dark", "Light" (modo de apariencia)
-customtkinter.set_default_color_theme("blue")  # blue, dark-blue, green, dark-green, light-blue, dark-light-blue
+customtkinter.set_default_color_theme("dark-blue")  # blue (defecto), dark-blue, green
 
 
 app = customtkinter.CTk()  # Crear la ventana principal || a 'app' se le puede llamar como quieras, pero normalmente se llama 'root'
@@ -25,13 +26,29 @@ app.geometry("800x600")  # Establecer el tamaño de la ventana
 
 
 def button_function():
-    print("Botón presionado")  # Acción al presionar el botón   
-    customtkinter.CTkMessageBox.show_info("Información", "Conectando al servidor...")  # Mostrar un mensaje de información
+    print("Botón presionado: CONECTAR")  # Acción al presionar el botón
+    messagebox.showinfo("Información", "Conectando al servidor...")  # Mostrar un mensaje de información
+    connect()  # Llamar a la función de conexión al servidor
 
 
 def button_send():
-    print("Mensaje enviado")  # Acción al presionar el botón
-    customtkinter.CTkMessageBox.show_info("Información", "Mensaje enviado al servidor")  # Mostrar un mensaje de información
+    print("Botón presionado: ENVIAR MENSAJE")  # Acción al presionar el botón
+    messagebox.showinfo("Información", "Mensaje enviado al servidor")  # Mostrar un mensaje de información
+
+
+def recibir():
+    global client_socket, ACTIVO  # Acceder a las variables globales
+    while ACTIVO:  # Mientras el cliente esté activo
+        try:
+            data = client_socket.recv(1024)  # Recibir datos del servidor
+            if not data:  # Si no hay datos, salir del bucle
+                break
+            text.insert(tkinter.END, f"Datos recibidos: {data.decode()}\n")  # Insertar los datos recibidos en el cuadro de texto
+            log_info(f"Datos recibidos: {data.decode()}")  # Registrar los datos recibidos
+        except Exception as e:
+            text.insert(tkinter.END, f"Error al recibir datos: {e}\n")
+            log_error(f"Error al recibir datos: {e}")  # Registrar el error
+            break
 
 
 def connect():
@@ -45,11 +62,25 @@ def connect():
         log_info("Conectado al servidor")  # Registrar la conexión exitosa
     except Exception as e:
         text.insert(tkinter.END, f"Error al conectar: {e}\n")
+        messagebox.showerror("Error", f"Error al conectar: {e}")
         log_error(f"Error al conectar: {e}")  # Registrar el error
 
+
+
+
+
+
+# TODO ==================================================================
+
+
+
 # TODO: Area de mensaje
-text = customtkinter.CTkTextbox(master=app, width=660, height=353)  # Crear un cuadro de texto
+text = customtkinter.CTkTextbox(master=app, width=298, height=353)  # Crear un cuadro de texto
 text.place(relx=0.5, rely=0.4, anchor=tkinter.CENTER)  # Colocar el cuadro de texto en el centro de la ventana
+
+text_info = customtkinter.CTkTextbox(master=app, width=298, height=100)  # Crear otro cuadro de texto para información
+text_info.place(relx=0.5, rely=0.9, anchor=tkinter.CENTER)  # Colocar el cuadro de texto en la parte inferior de la ventana
+text_info.insert(tkinter.END, "Información del cliente\n")  # Insertar texto en el cuadro de texto de información
 
 button_cnt = customtkinter.CTkButton(master=app, text="conectar al servidor", command=button_function)  # Crear un botón
 button_cnt.place(relx=0.23, rely=0.8, anchor=tkinter.CENTER)  # Colocar el botón en el centro de la ventana, el ultimo parámetro 'anchor' es para centrar el botón en la ventana
