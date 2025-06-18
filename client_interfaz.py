@@ -42,3 +42,5 @@ button_env = customtkinter.CTkButton(master=app, text="enviar mensaje", command=
 button_env.place(relx=0.77, rely=0.8, anchor=tkinter.CENTER)  # Colocar el botón en el centro de la ventana
 app.title("Interfaz de Usuario con CustomTkinter")  # Título de la ventana
 app.mainloop()  # Iniciar el bucle principal de la aplicación
+log_info("Interfaz de usuario iniciada")  # Registrar el inicio de la interfaz
+log_debug("Interfaz de usuario en ejecución")  # Registrar que la interfaz está en ejecución
