@@ -23,8 +23,6 @@ app = customtkinter.CTk()  # Crear la ventana principal || a 'app' se le puede l
 app.geometry("850x650")  # Establecer el tamaño de la ventana
 
 
-
-
 def button_function():
     print("Botón presionado: CONECTAR")  # Acción al presionar el botón
     messagebox.showinfo("Información", "Conectando al servidor...")  # Mostrar un mensaje de información

@@ -7824,3 +7824,14 @@ Presiona ENTER para continuar.Has seleccionado la opción de TELEOPERADOR con MyS
 2025-06-18 13:11:23 - ERROR - [CLIENT ERROR]: Error al conectar: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
 2025-06-18 13:11:26 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
 2025-06-18 13:14:12 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 13:18:52 - INFO - [CLIENT INFO]: Conexión establecida con el servidor
+2025-06-18 13:18:52 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 13:18:56 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-18 13:18:57 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 13:20:16 - ERROR - [CLIENT ERROR]: Error al recibir datos: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2025-06-18 13:22:01 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
