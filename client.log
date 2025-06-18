@@ -7820,3 +7820,6 @@ Presiona ENTER para continuar.Has seleccionado la opción de TELEOPERADOR con MyS
 2025-06-18 13:03:48 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
 2025-06-18 13:03:55 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
 2025-06-18 13:04:01 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 13:11:21 - ERROR - [CLIENT ERROR]: Error al conectar: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-18 13:11:23 - ERROR - [CLIENT ERROR]: Error al conectar: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-18 13:11:26 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
