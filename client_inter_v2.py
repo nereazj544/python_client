@@ -20,11 +20,11 @@ customtkinter.set_default_color_theme("dark-blue")  # blue (defecto), dark-blue,
 # TODO: Area de mensaje
 app = customtkinter.CTk()  # Crear la ventana principal || a 'app' se le puede llamar como quieras, pero normalmente se llama 'root'
 
-text = customtkinter.CTkTextbox(master=app, width=298, height=353)  # Crear un cuadro de texto
+text = customtkinter.CTkTextbox(master=app, width=298, height=100)  # Crear un cuadro de texto
 text.place(relx=0.5, rely=0.4, anchor=tkinter.CENTER)  # Colocar el cuadro de texto en el centro de la ventana
 
 text_info = customtkinter.CTkTextbox(master=app, width=298, height=100)  # Crear otro cuadro de texto para información
-text_info.place(relx=0.5, rely=0.9, anchor=tkinter.CENTER)  # Colocar el cuadro de texto en la parte inferior de la ventana
+text_info.place(relx=0.5, rely=0.59, anchor=tkinter.CENTER)  # Colocar el cuadro de texto en la parte inferior de la ventana
 text_info.insert(tkinter.END, "Información del cliente\n")  # Insertar texto en el cuadro de texto de información
 
 
