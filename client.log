@@ -7664,3 +7664,156 @@ Nombre: gato Montes | Especie: felino | Recinto: Recinto de Felinos | Numero rec
 2025-06-18 12:30:38 - INFO - [CLIENT INFO]: Conectado al servidor
 2025-06-18 12:30:42 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
 2025-06-18 12:36:33 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 12:51:27 - INFO - [CLIENT INFO]: Conexión establecida con el servidor
+2025-06-18 12:51:27 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 12:51:32 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:51:41 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 12:52:28 - INFO - [CLIENT INFO]: Conexión establecida con el servidor
+2025-06-18 12:52:28 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 12:52:32 - INFO - [CLIENT INFO]: Mensaje enviado: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 12:52:33 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:52:33 - INFO - [CLIENT INFO]: Datos recibidos: Opción no válida, por favor intente nuevamente.
+
+2025-06-18 12:52:38 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:52:38 - INFO - [CLIENT INFO]: Mensaje enviado: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+
+Mensaje enviado: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+Datos recibidos: Opción no válida, por favor intente nuevamente.
+
+1Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:52:38 - INFO - [CLIENT INFO]: Datos recibidos: Opción no válida, por favor intente nuevamente.
+
+2025-06-18 12:52:43 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:52:49 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-18 12:52:49 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de teleoperador...
+
+2025-06-18 12:52:49 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de TELEOPERADOR con MySQL. Selecciona la consulta que quieras hacer: 
+1. Insertar un nuevo teleoperador 
+2. Insertar el horario del teleoperador 
+3. Eliminar un teleoperador 
+4. Consultar teleoperadores y sus horarios 
+
+2025-06-18 12:53:04 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 12:53:19 - INFO - [CLIENT INFO]: Conexión establecida con el servidor
+2025-06-18 12:53:19 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 12:53:22 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-18 12:53:24 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:53:30 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-18 12:53:30 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de teleoperador...
+
+2025-06-18 12:53:30 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de TELEOPERADOR con MySQL. Selecciona la consulta que quieras hacer: 
+1. Insertar un nuevo teleoperador 
+2. Insertar el horario del teleoperador 
+3. Eliminar un teleoperador 
+4. Consultar teleoperadores y sus horarios 
+
+2025-06-18 12:53:50 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-18 12:53:50 - INFO - [CLIENT INFO]: Datos recibidos: Nombre del teleoperador
+2025-06-18 12:53:57 - INFO - [CLIENT INFO]: Mensaje enviado: neo
+2025-06-18 12:53:57 - INFO - [CLIENT INFO]: Datos recibidos: Apellido del teleoperador
+2025-06-18 12:54:03 - INFO - [CLIENT INFO]: Mensaje enviado: kurai
+2025-06-18 12:54:03 - INFO - [CLIENT INFO]: Datos recibidos: Telefono del teleoperador
+2025-06-18 12:54:08 - INFO - [CLIENT INFO]: Mensaje enviado: 2313424
+2025-06-18 12:54:08 - INFO - [CLIENT INFO]: Datos recibidos: Email del teleoperador
+2025-06-18 12:54:18 - INFO - [CLIENT INFO]: Mensaje enviado: nk_@tl.es
+2025-06-18 12:54:18 - INFO - [CLIENT INFO]: Datos recibidos: Selecciona una ubicación por su ID y nombre: 
+ID: 1, Nombre: Mondstadt
+ID: 2, Nombre: Liyue
+ID: 3, Nombre: Castillo Hyrule
+ID: 4, Nombre: Bosque Kokiri
+ID: 5, Nombre: Ciudad Plateada
+ID: 6, Nombre: Pueblo Paleta
+ID: 7, Nombre: Comisaría de Policía
+ID: 8, Nombre: Hospital
+ID: 9, Nombre: Inazuma
+
+2025-06-18 12:54:18 - INFO - [CLIENT INFO]: Datos recibidos: El ID de la ubicacion que quiere añadir
+2025-06-18 12:54:34 - INFO - [CLIENT INFO]: Mensaje enviado: 2
+2025-06-18 12:54:34 - INFO - [CLIENT INFO]: Datos recibidos: Teleoperador neo Kurai insertado correctamente.
+
+2025-06-18 12:54:34 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de TELEOPERADOR con MySQL. Selecciona la consulta que quieras hacer: 
+1. Insertar un nuevo teleoperador 
+2. Insertar el horario del teleoperador 
+3. Eliminar un teleoperador 
+4. Consultar teleoperadores y sus horarios 
+
+2025-06-18 12:54:44 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-18 12:54:44 - INFO - [CLIENT INFO]: Datos recibidos: Consultando teleoperadores y sus horarios...
+
+2025-06-18 12:54:44 - INFO - [CLIENT INFO]: Conexión cerrada por el servidor.
+2025-06-18 12:57:13 - WARNING - [CLIENT WARNING]: Intento de conectar cuando ya hay una conexión activa.
+2025-06-18 12:57:19 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 12:58:18 - INFO - [CLIENT INFO]: Conexión establecida con el servidor
+2025-06-18 12:58:18 - INFO - [CLIENT INFO]: Datos recibidos: CONEXIÓN ESTABLECIDA CORRECTAMENTE CON EL SERVIDOR.
+ ENTER PARA CONTINUAR
+2025-06-18 12:58:20 - INFO - [CLIENT INFO]: Mensaje enviado: 
+2025-06-18 12:58:23 - INFO - [CLIENT INFO]: Datos recibidos: ELIGE UNA OPCIÓN:
+1. Teleoperador
+2. Tecnico
+3. Incidencias
+4. Salir
+2025-06-18 12:58:28 - INFO - [CLIENT INFO]: Mensaje enviado: 1
+2025-06-18 12:58:28 - INFO - [CLIENT INFO]: Datos recibidos: Consultando datos de teleoperador...
+
+2025-06-18 12:58:28 - INFO - [CLIENT INFO]: Datos recibidos: Has seleccionado la opción de TELEOPERADOR con MySQL. Selecciona la consulta que quieras hacer: 
+1. Insertar un nuevo teleoperador 
+2. Insertar el horario del teleoperador 
+3. Eliminar un teleoperador 
+4. Consultar teleoperadores y sus horarios 
+
+2025-06-18 12:58:32 - INFO - [CLIENT INFO]: Mensaje enviado: 4
+2025-06-18 12:58:32 - INFO - [CLIENT INFO]: Datos recibidos: Consultando teleoperadores y sus horarios...
+
+2025-06-18 12:58:32 - INFO - [CLIENT INFO]: Datos recibidos: Teleoperadores y sus horarios:
+ID: 1, Nombre: Aiden Stone, Teléfono: 700900800, Email: aiden@teyvat.com, Ubicación: Mondstadt, Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 2, Nombre: Paimon Navigator, Teléfono: 123123123, Email: paimon@teyvat.com, Ubicación: Liyue, Semana: Semana 1 de Agosto, Inicio: 16:00:00, Fin: 22:00:00, Descripción: Atención de incidencias en Liyue
+ID: 3, Nombre: Zelda Princess, Teléfono: 321321321, Email: zelda@hyrule.com, Ubicación: Castillo Hyrule, Semana: Semana 2 de Agosto, Inicio: 18:00:00, Fin: 0:00:00, Descripción: Soporte noche Castillo Hyrule
+ID: 4, Nombre: Saria Forest, Teléfono: 456456456, Email: saria@hyrule.com, Ubicación: Bosque Kokiri, Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 5, Nombre: Ash Ketchum, Teléfono: 999111888, Email: ash@kanto.com, Ubicación: Ciudad Plateada, Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 6, Nombre: Nurse Joy, Teléfono: 444555666, Email: joy@kanto.com, Ubicación: Pueblo Paleta, 
+2025-06-18 12:58:32 - INFO - [CLIENT INFO]: Datos recibidos: Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 7, Nombre: Leon Kennedy, Teléfono: 333222111, Email: leon@racoon.com, Ubicación: Comisaría de Policía, Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 8, Nombre: Claire Redfield, Teléfono: 777888999, Email: claire@racoon.com, Ubicación: Hospital, Semana: None, Inicio: None, Fin: None, Descripción: None
+ID: 9, Nombre: neo Kurai, Teléfono: 2313424, Email: nk_@tl.es, Ubicación: Liyue, Semana: None, Inicio: None, Fin: None, Descripción: None
+Presiona ENTER para continuar.Has seleccionado la opción de TELEOPERADOR con MySQL. Selecciona la consulta que quieras hacer: 
+1. Insertar un nuevo teleoperador 
+2. Insertar el horario del teleoperador 
+3. Eliminar un teleoperador 
+4. Consultar teleoperadores y sus horarios 
+
+2025-06-18 12:58:45 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada

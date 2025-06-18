@@ -100,6 +100,8 @@ def connect():
         log_info("Conexión establecida con el servidor")  # Registrar la conexión exitosa
         text_info.insert(tkinter.END, "Conectado al servidor\n")  # Insertar texto en el cuadro de texto
         log_info("Conectado al servidor")  # Registrar la conexión exitosa
+        hilo = threading.Thread(target=recibir)  # Crear un hilo para recibir datos del servidor
+        hilo.start()
     except Exception as e:
         text_info.insert(tkinter.END, f"Error al conectar: {e}\n")
         messagebox.showerror("Error", f"Error al conectar: {e}")
