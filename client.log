@@ -7835,3 +7835,5 @@ Presiona ENTER para continuar.Has seleccionado la opción de TELEOPERADOR con MyS
 4. Salir
 2025-06-18 13:20:16 - ERROR - [CLIENT ERROR]: Error al recibir datos: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
 2025-06-18 13:22:01 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
+2025-06-18 13:27:48 - ERROR - [CLIENT ERROR]: Error al conectar: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-06-18 13:27:49 - INFO - [CLIENT INFO]: Interfaz de usuario iniciada
